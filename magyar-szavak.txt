@@ -12999,7 +12999,6 @@ belejegecesedik
 belejegyez
 belejelent
 belejelez
-belejózanodik
 belejön
 belejt
 belejut
@@ -13522,7 +13521,6 @@ belepofázik
 belepofoz
 belepolimerizál
 beleposhad
-belepótol
 belepotyog
 belepotyogtat
 belepottyan
@@ -27615,7 +27613,6 @@ elállító
 elállítódik
 elálló
 elálmélkodik
-elálmodik
 elálmodozik
 elálmosít
 elálmosító
@@ -41139,7 +41136,6 @@ feljelez
 feljelöl
 feljogosít
 feljogosított
-feljózanodik
 feljön
 feljötte
 feljövendő
@@ -41992,7 +41988,6 @@ felporoz
 felporszívózik
 félportál
 felporzik
-felpótol
 felpöccent
 felpöcköl
 felpödör
@@ -47616,7 +47611,6 @@ följelentet
 följelentget
 följelöl
 följogosít
-följózanodik
 följön
 följut
 följuttat
@@ -57833,7 +57827,6 @@ helyreállító
 helyreállítódik
 helyreállított
 helyreállíttatik
-helyreálmodik
 helyreáraz
 helyrebiccent
 helyrebillen
@@ -65940,7 +65933,6 @@ józsefvárosi
 jődögél
 jöhető
 jön
-jöszte
 jötte
 jöttem
 jöttment
@@ -68933,7 +68925,6 @@ kepe
 képed
 képedez
 képek
-kepél
 képel
 képelem
 képélesség
@@ -83727,7 +83718,6 @@ leállított
 leállíttatik
 leállósáv
 leállt
-leálmodik
 lealszik
 leáltalánosít
 lealtat
@@ -90734,7 +90724,6 @@ marhának
 marhanyelv
 marhapásztor
 marhapecsenye
-marhapöcsök
 marhapörkölt
 marhára
 marharépa
@@ -94666,7 +94655,6 @@ megporosodik
 megporzás
 megporzik
 megposhad
-megpótol
 megpöccent
 megpöccint
 megpöcköl
@@ -109045,7 +109033,6 @@ ozorai
 összepontosít
 összepontoz
 összeporszívózik
-összepótol
 összepödör
 összepödörödik
 összepöndörödik
@@ -114123,11 +114110,7 @@ pöcke
 pöcköl
 pöcögtet
 pöcök
-pöcs
 pőcsik
-pöcsök
-pöcsöl
-pöcsül
 pödör
 pödörnyelv
 pödrés
@@ -116167,7 +116150,6 @@ rajongó
 rajongója
 rajongók
 rajongva
-rájózanodik
 rájön
 rájövöget
 rajparancsnok
@@ -116895,7 +116877,6 @@ ráporlad
 raport
 ráportyázik
 ráporzik
-rápótol
 rápotyog
 rápottyan
 rápottyant
@@ -139202,7 +139183,6 @@ túljelez
 túljellemez
 túljelöl
 túljogászkodik
-túljózanodik
 túljut
 túljuttat
 túlkalandozik
@@ -139491,7 +139471,6 @@ túlpolitizál
 túlpontosít
 túlpontoz
 túlpopularizál
-túlpótol
 túlpozicionál
 túlpödör
 túlpördül
@@ -142151,7 +142130,6 @@ utánaordít
 utánaoson
 utánaönt
 utánapillant
-utánapótol
 utánarajzol
 utánarándul
 utánarendel
