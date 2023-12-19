@@ -1,6 +1,16 @@
 #!/usr/bin/env python3
 
-"""This is a tool to practice reading considering the Meixner-method."""
+"""
+This toool helps the reading practice of Hungarian words.
+
+It takes into account the learning order of the alphabet
+used by the Meixner-method.
+
+The words are selected from the dictionary given on the command line,
+by default the filename is 'magyar-szavak.txt'.
+
+Warning: the dictionary may contain non-existent, or inappropriate words!
+"""
 
 import argparse
 import random

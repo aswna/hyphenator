@@ -1,11 +1,20 @@
 # Overview / Leírás
-This tool helps the reading practice of Hungarian words, taking into account the learning order of the alphabet used by the Meixner-method.
-The words are selected from the dictionary given on the command line, by default filename is ``magyar-szavak.txt``.
-Warning: the dictionary may contain unwanted words!
+This tool helps the reading practice of Hungarian words,
+taking into account the learning order of the alphabet
+used by the Meixner-method.
 
-Ez az eszköz a magyar szavak szótagolva olvasását segíti, figyelembe vevé a Meixner-módszer ábécéjének tanulási sorrendjét.
-A program a szavakat a parancssorban megadott szótárból használja, ez alapesetben a ``magyar-szavak.txt`` nevű fájl.
-Figyelem: a szótár nem kívánatos szavakat tartalmazhat!
+The words are selected from the dictionary given on the command line,
+by default this filename is ``magyar-szavak.txt``.
+
+Warning: the dictionary may contain non-existent, or inappropriate words!
+
+Ez az eszköz a magyar szavak szótagolva olvasását segíti,
+figyelembe vevé a Meixner-módszer ábécéjének tanulási sorrendjét.
+
+A program a szavakat a parancssorban megadott szótárból használja,
+ez alapesetben a ``magyar-szavak.txt`` nevű fájl.
+
+Figyelem: a szótár nem létező és nem kívánatos szavakat is tartalmazhat!
 
 ```
 $ ./hyphenator.py --help
