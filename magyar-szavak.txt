@@ -1995,7 +1995,6 @@ alábont
 aláborít
 alábucskázik
 alábújik
-alábujt
 alábújtat
 alábukás
 alábukfencezik
@@ -2022,7 +2021,6 @@ alacsonyul
 alácsordogál
 alácsordul
 alácsorog
-alácsökken
 alácsöng
 alácsövezik
 alácsuklik
@@ -2043,6 +2041,7 @@ aládúcolt
 aládug
 aládugdos
 aládübörög
+aláékel
 aláékelés
 aláemel
 aláenged
@@ -2136,7 +2135,6 @@ aláhelyez
 aláhelyezkedik
 aláhengerít
 aláhint
-aláhív
 aláhízik
 aláhord
 aláhorgad
@@ -2171,14 +2169,12 @@ aláírogat
 aláírókönyv
 aláírt
 aláiszapol
-aláiszik
 aláível
 aláizzad
 alájár
 alájárkál
 alájátszik
 alájegyez
-alájön
 alájut
 alak
 alákanalaz
@@ -2187,7 +2183,6 @@ alákap
 alákapar
 alákarcol
 alákarol
-alákel
 alakellenállás
 aláken
 alákérdez
@@ -2228,7 +2223,6 @@ alakozás
 alakozó
 alakozólap
 alakozósablon
-aláköltözik
 aláköszörül
 aláköt
 alakpár
@@ -2248,7 +2242,6 @@ alakulat
 alákuporodik
 alakutánzás
 alakutánzó
-alákutat
 aláküld
 alakváltozás
 alakváltozásmentes
@@ -2262,7 +2255,6 @@ alálapul
 alálát
 alálebeg
 alálécez
-alálehet
 aláleng
 alálép
 aláléptet
@@ -2275,7 +2267,6 @@ alálóg
 alálógat
 alálop
 alálő
-alálődörög
 alálök
 alámar
 alámászik
@@ -2399,7 +2390,6 @@ alápillant
 alápincéz
 alapirányzék
 alápirít
-alápisál
 alapismeret
 alapismeretek
 alapít
@@ -2633,8 +2623,6 @@ alattomoskodik
 alattomosság
 alattvaló
 alattvalói
-alátud
-alátúloz
 alátúr
 alátűz
 alátüzel
@@ -2645,10 +2633,8 @@ aláül
 aláüregel
 alávág
 alávágódik
-alávállal
 alávaló
 alávalóság
-alávált
 aláver
 alávérzik
 alávés
@@ -7376,7 +7362,6 @@ atonalitás
 átpiroslik
 átpirosodik
 átpirul
-átpisál
 átpislákol
 átpislant
 átpislog
@@ -7563,7 +7548,6 @@ atropin
 átsejlik
 átsejt
 átselejtez
-átsemmiz
 átseper
 átsétál
 átsettenkedik
@@ -7810,7 +7794,6 @@ atropin
 áttagozódik
 attak
 áttakarít
-áttalál
 áttalicskázik
 áttalpal
 áttámad
@@ -10725,7 +10708,6 @@ beforrás
 beforraszt
 beforrasztás
 beforrósodik
-befosik
 befotografál
 befotóz
 befő
@@ -13142,7 +13124,6 @@ belepirít
 belepiroslik
 belepirosodik
 belepirul
-belepisál
 belepisil
 belepislant
 belepislog
@@ -14550,7 +14531,6 @@ bepiroslik
 bepirosodik
 bepirosul
 bepirul
-bepisál
 bepisil
 bepislant
 bepislog
@@ -15008,7 +14988,6 @@ besavanyodva
 besebez
 beseftel
 besegédkezik
-beseggel
 besegít
 besejdít
 besejlik
@@ -16135,7 +16114,6 @@ beveszik
 beveszt
 bevet
 bevét
-bevetél
 bevétel
 bevételek
 bevételez
@@ -30437,7 +30415,6 @@ ellenvéleményez
 ellenversszak
 ellenversszakos
 ellenvet
-ellenvetélkedik
 ellenvetés
 ellenvonat
 ellenvonul
@@ -33345,7 +33322,6 @@ elsekélyesít
 elselejtez
 elselypeg
 elselypít
-elsemmiz
 elsenyved
 elsenyvedt
 elsenyveszt
@@ -43197,7 +43173,6 @@ felveszik
 felveszít
 felvet
 felvét
-felvetél
 felvétel
 felvételek
 felvételez
@@ -46159,7 +46134,6 @@ fortyogás
 fórum
 fos
 fosás
-fosik
 fosógém
 fosóhomok
 fószer
@@ -47612,7 +47586,6 @@ fölpiperéz
 fölpirkad
 fölpiroslik
 fölpirul
-fölpisál
 fölpislákol
 fölpislant
 fölpislog
@@ -56182,7 +56155,6 @@ hátraroskad
 hátraröpül
 hátrarúg
 hátrasandít
-hátraseggel
 hátrasétál
 hátrasettenkedik
 hátrasiet
@@ -71707,7 +71679,6 @@ kiforrott
 kiforszíroz
 kifortyan
 kifortyog
-kifosik
 kifoszladozik
 kifoszlik
 kifoszt
@@ -73707,7 +73678,6 @@ kipirult
 kipirultan
 kipirultság
 kipirulva
-kipisál
 kipisil
 kipislant
 kipislog
@@ -74204,7 +74174,6 @@ kisebesül
 kisebez
 kisegél
 kisegér
-kiseggel
 kisegít
 kisegítés
 kisegítő
@@ -81589,12 +81558,8 @@ kuruzsló
 kuruzslóé
 kuruzslónő
 kuruzsol
-kurva
-kurvaéletbe
-kurvahajcsár
 kurválkodás
 kurválkodik
-kurvapecér
 kurvára
 kurvás
 kurváz
@@ -82011,7 +81976,6 @@ különvár
 különvélemény
 különvéleményez
 különvesz
-különvetélkedik
 különvetít
 különvillamosozik
 különvisz
@@ -84215,7 +84179,6 @@ leforraszt
 leforráz
 leforrázás
 leforrázatlan
-lefosik
 lefoszlik
 lefoszt
 lefosztás
@@ -86625,7 +86588,6 @@ lepirítás
 lepirongat
 lepirosodik
 lepirul
-lepisál
 lepisil
 lepiszkál
 lepiszkít
@@ -86955,7 +86917,6 @@ lesátoroz
 lesavanyít
 lesebez
 lesegél
-leseggel
 lesegít
 lesejt
 leselejtez
@@ -87342,7 +87303,6 @@ letakarítás
 letakarítatlan
 letakarmányoz
 letakarodik
-letalál
 létalap
 letális
 letallózik
@@ -87994,7 +87954,6 @@ levesszűrő
 leveszt
 levet
 levét
-levetél
 levétel
 levetés
 levetet
@@ -94670,7 +94629,6 @@ megsemmisítőleg
 megsemmisül
 megsemmisülés
 megsemmisült
-megsemmiz
 megsenyved
 megseper
 megseprő
@@ -103679,7 +103637,6 @@ odaformál
 odaforog
 odaforr
 odaforraszt
-odafosik
 odafotografál
 odafő
 odafönt
@@ -107842,7 +107799,6 @@ ozorai
 összeforró
 összeforrósít
 összeforrott
-összefosik
 összefotografál
 összefotóz
 összefő
@@ -108653,7 +108609,6 @@ ozorai
 összepillant
 összepingál
 összepirít
-összepisál
 összepisil
 összepiszkít
 összepiszkol
@@ -112560,8 +112515,6 @@ pirula
 pirulás
 pirulékony
 piruló
-pisa
-pisál
 pisás
 piscina
 pisi
@@ -113577,9 +113530,6 @@ postázatlan
 postázó
 postázott
 postazsák
-postcard
-postpaid
-posvánzos
 posvány
 posványos
 posványosodik
@@ -120726,18 +120676,6 @@ segélypénz
 segélypénztár
 segélyszolgálat
 segélyvonat
-segg
-seggdugasz
-seggel
-seggfej
-seggfejű
-seggluk
-segglyuk
-seggnyaló
-seggreesés
-seggrészeg
-seggtörlő
-seggű
 segít
 segíteni
 segítés
@@ -120969,7 +120907,6 @@ semmítőszék
 semmittevés
 semmittevő
 semmivel
-semmiz
 senki
 senkifia
 senkiházi
@@ -130971,7 +130908,6 @@ szűzi
 szűzies
 szűziesen
 szűziesség
-szűzkurva
 szűzlány
 szűzleány
 szűznemzés
@@ -133243,7 +133179,6 @@ telefonüzenet
 telefonvonal
 telefonzsinór
 telefordít
-telefosik
 telefotografálás
 telefotográfia
 telefotográfiai
@@ -133421,7 +133356,6 @@ telepettyez
 telephely
 telephelyi
 telepingál
-telepisál
 telepisil
 telepiszkít
 telepít
@@ -145201,7 +145135,6 @@ végigfordít
 végigforgat
 végigformáz
 végigforog
-végigfosik
 végigfosztogat
 végigfotóz
 végigfúj
