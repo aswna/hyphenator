@@ -3,8 +3,8 @@
 """This is a tool to practice reading considering the Meixner-method."""
 
 import argparse
-import os
 import random
+import re
 import sys
 
 import pyphen
@@ -37,6 +37,14 @@ MEIXNER_CONSONANTS = (
     ('q'),
 )
 
+# Simple workaround for the Hungarian dictionary used by Pyphen.
+# This workaround handles simple cases, but still might fail on compound words.
+# See https://github.com/Kozea/Pyphen/issues/61
+VOWELS = ''.join(v for level in MEIXNER_VOWELS for v in level)
+START_PATTERN = re.compile(
+    f'^([{VOWELS}])(([^{VOWELS}]|cs|gy|ny|sz|ty|zs)?[{VOWELS}])')
+END_PATTERN = re.compile(f'([{VOWELS}])([{VOWELS}])$')
+
 
 def main():
     """Start here."""
@@ -54,19 +62,11 @@ def main():
         if count >= args.count:
             break
 
-        # this might not be complete
         hypenated_word = hyphenator.inserted(word)
-        # print(hypenated_word)
-
-        # this still might not be complete, but handles simple cases
-        # (might fail on compound words)
-        vowels = 'aáeéiíoóöőuúüű'
-        os.system(
-            f"echo {hypenated_word} | sed "
-            f"'s/^\\([{vowels}]\\)\\(\\([^{vowels}]"
-            f"\\|cs\\|gy\\|ny\\|sz\\|ty\\|zs\\)\\?"
-            f"[{vowels}]\\)/\\1-\\2/;"
-            f"s/\\([{vowels}]\\)\\([{vowels}]\\)$/\\1-\\2/'")
+        # See more info above!
+        hypenated_word = START_PATTERN.sub('\\1-\\2', hypenated_word)
+        hypenated_word = END_PATTERN.sub('\\1-\\2', hypenated_word)
+        print(f'{hypenated_word}')
 
 
 def parse_args():
@@ -98,7 +98,7 @@ def get_letter_pools(args):
     if args.level <= 0:
         consonants_pool.update(
             c for level in MEIXNER_CONSONANTS for c in level)
-        vowels_pool.update(v for level in MEIXNER_VOWELS for v in level)
+        vowels_pool.update(v for v in VOWELS)
     elif (args.level <= len(MEIXNER_CONSONANTS) or
           args.level <= len(MEIXNER_VOWELS)):
         for i in range(args.level):
@@ -118,16 +118,12 @@ def get_allowed_words(lines, consonants_pool, vowels_pool):
     for word in lines:
         word = word.strip()
         letters = set(x for x in word)
-        # print(f'letters = {letters}')
         for letter in letters:
             if letter not in consonants_pool and letter not in vowels_pool:
                 break
         else:
             if is_graph_allowed(word, consonants_pool):
                 allowed_words.append(word)
-    # print(f'number of allowed_words = {len(allowed_words)}')
-    # for word in allowed_words:
-    #     print(word)
 
     random.shuffle(allowed_words)
 
@@ -136,7 +132,6 @@ def get_allowed_words(lines, consonants_pool, vowels_pool):
 
 def is_graph_allowed(word, consonants_pool):
     """Check whether the word contains not yet learned digraphs/trigraphs."""
-    # check for digraphs and trigraph(s)
     for graph in ('sz', 'gy', 'cs', 'ny', 'zs', 'ty', 'ly', 'dz', 'dzs'):
         if graph in word and graph not in consonants_pool:
             return False
