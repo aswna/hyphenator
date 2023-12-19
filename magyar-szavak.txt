@@ -29326,7 +29326,6 @@ elidegenül
 elidegenülés
 elidegeskedik
 elidétlenkedik
-elidéz
 elidősödik
 elidőzik
 eligazgat
@@ -29442,7 +29441,6 @@ elizél
 elizgul
 elízium
 elíziumi
-elizlámosít
 elizzik
 eljajdul
 eljajgat
@@ -106317,7 +106315,6 @@ ozorai
 öcsémuram
 öcsi
 öcskös
-ödakötött
 ödéma
 ődöng
 ődöngés
