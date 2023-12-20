@@ -6552,7 +6552,6 @@ atípusos
 átismételget
 átismétlés
 átismétlődik
-átistenít
 átiszik
 átiszkol
 átiszogat
@@ -8617,10 +8616,7 @@ bábfilm
 babfőzelék
 babgulyás
 babhüvely
-babicajáték
-babilon
 babiloni
-babilónia
 babilóniai
 babitsi
 bábjáték
@@ -8632,7 +8628,6 @@ bábkirály
 bábkormány
 bableves
 babliszt
-babócs
 babona
 babonás
 babonaság
@@ -8667,11 +8662,8 @@ baccalaureátus
 baccalaureus
 bacchanália
 bacchánsnő
-bacchásnő
-bacchus
 bacchusi
 baci
-bacillusgazda
 bacilus
 bacilusfertőzés
 bacilusfészek
@@ -8768,7 +8760,6 @@ bajlódik
 bajmolódás
 bajmolódik
 bájmosoly
-bájnélküli
 bájnélküliség
 bajnét
 bajnok
@@ -8842,9 +8833,7 @@ bakdaru
 bakelit
 bakelitlakk
 bakelitoz
-bakelizál
 bakfis
-bakfiskodó
 bakfiskor
 bakfisruha
 bakfitty
@@ -8873,7 +8862,6 @@ baktericid
 bakteriofág
 bakteriológia
 bakteriológiai
-bakteriologikus
 bakteriológus
 baktérítő
 baktérium
@@ -8904,7 +8892,6 @@ balázsjárás
 balázsolás
 balcsillag
 balcsillagzat
-bald
 baldachin
 baldachinos
 baldachinszerű
@@ -8917,7 +8904,6 @@ baleseti
 balesetmentes
 balesetveszély
 balett
-balettáncosnő
 balettben
 balettcipő
 balettest
@@ -8973,7 +8959,7 @@ balközép
 ballábas
 ballada
 balladaárus
-balladaénekesnő
+balladaénekes
 balladai
 balladaköltészet
 ballag
@@ -9023,8 +9009,6 @@ balos
 bálozik
 balösszekötő
 balra
-balraforgatás
-balraforgató
 balratolódás
 balsafa
 balság
@@ -9036,19 +9020,16 @@ balsors
 balsorsú
 balszárny
 balszélső
-balszerelő
 balszerencse
 balszerencsés
 balta
 baltacim
-baltacím
 baltafok
 baltanyél
 baltáz
 bálterem
 balti
 baltikumi
-baltimore
 balul
 baluszter
 baluszteres
@@ -9071,7 +9052,6 @@ balzsamfa
 balzsamfenyő
 balzsamfű
 balzsamillat
-balzsamita
 balzsamnyárfa
 balzsamos
 balzsamosan
@@ -9143,8 +9123,6 @@ bandzsít
 bandzsítás
 bangita
 bangó
-banhul
-banhulfa
 bánik
 bank
 banka
@@ -9239,10 +9217,8 @@ bánya
 banya
 bányaács
 bányaakna
-bányaapró
 bányabejárat
 bányabér
-bányabusszola
 bányacsille
 bányafa
 bányafelmérő
@@ -9326,7 +9302,6 @@ bányavasút
 bányavidék
 bányavitorla
 bányavíz
-bányejtőék
 baptista
 bar
 bár
@@ -9344,7 +9319,6 @@ barackrózsaszínű
 barackvirág
 barackvirágszín
 barackvirágszínű
-baradicskóró
 barakk
 barakklakás
 barakklakó
@@ -9400,7 +9374,6 @@ barátsági
 barátságos
 barátságosan
 barátságosság
-barátságtalam
 barátságtalan
 barátságtalanság
 barátságtalanul
@@ -9415,15 +9388,12 @@ barázdált
 barázdás
 barbakán
 barbár
-barbara
 barbarizmus
 barbárok
 barbárság
 barbitursav
 bárca
 bárcás
-barchend
-barchet
 barcog
 bárcsak
 barcsi
@@ -9434,7 +9404,6 @@ bárdolatlan
 bárdolatlanság
 bárdolatlanul
 barett
-barettercső
 bárfiú
 bárgyú
 bárgyún
@@ -9460,7 +9429,6 @@ baritonista
 baritonkürt
 baritontuba
 bárium
-báriummonoxid
 barka
 bárka
 barkácsáruház
@@ -9529,9 +9497,7 @@ barna
 barnabőrű
 barnabőrűség
 barnaingesek
-barnakenyér
 barnakő
-barnalakk
 barnállik
 barnamedve
 barnamoszat
@@ -9548,14 +9514,11 @@ barnászöld
 barnavasérc
 barnít
 barnul
-baró
 báró
 bárói
 barokk
 barokkos
-barológia
 barom
-barometer
 barométer
 barometrikus
 baromfi
@@ -9563,11 +9526,10 @@ baromfiállomány
 baromfialom
 baromfieleség
 baromfifarm
-baromfigondozónő
+baromfigondozó
 baromfikeltető
 baromfikereskedő
 baromfiketrec
-baromfikiállítás
 baromfikifutó
 baromfiól
 baromfitenyészet
@@ -9585,13 +9547,11 @@ baromira
 baromorvos
 baromság
 baromvásár
-baroncs
 báróné
 baronesse
 baronet
 bárónő
 báróság
-baroszkóp
 bárpult
 barrel
 bársony
@@ -9633,10 +9593,7 @@ basáskodó
 baseball
 baseballcsapat
 baseballkesztyű
-basibozuk
 baskír
-básony
-bassiafa
 bástya
 bástyaboltozat
 bástyafal
@@ -9658,7 +9615,6 @@ basszista
 basszus
 basszusbariton
 basszusfagott
-basszushang
 basszusklarinét
 basszuskulcs
 basszuskürt
@@ -9667,7 +9623,6 @@ batáta
 batik
 batikol
 batimetria
-batimetrikus
 batiszkaf
 batiszt
 batisztruha
@@ -9689,7 +9644,6 @@ bátortalanodik
 bátortalanság
 bátortalanul
 bátran
-battalion
 báty
 bátya
 bátyám
@@ -9700,7 +9654,6 @@ batyubál
 batyubálozó
 batyubálszerű
 bátyus
-batyusbál
 bátyuska
 batyuzás
 batyuzik
@@ -9931,7 +9884,6 @@ bebillegtet
 bebillen
 bebillent
 bébiőrző
-bebír
 bébirevolver
 bebirkózik
 bebirtokol
@@ -10193,7 +10145,6 @@ becslés
 becslési
 becslő
 becsmérel
-becsmérelés
 becsmérlés
 becsmérlő
 becsmérlően
@@ -10308,7 +10259,7 @@ bedatál
 bedátumoz
 bedauerol
 bedefiniál
-bedekker
+bédekker
 bedelegál
 bedelejez
 bedereng
@@ -10592,7 +10543,6 @@ befelé
 befeledkezik
 befelel
 befelelget
-befelénőtt
 befelez
 befelhősít
 befelhősödik
@@ -10632,14 +10582,12 @@ befikáz
 befingik
 befirkál
 befirkant
-befirniszol
 befizet
 befizetés
 befizetni
 befizetődik
 befizetőjegy
 befizettet
-beflúgol
 befocizik
 befog
 befogad
@@ -10649,7 +10597,6 @@ befogadhatóság
 befogadó
 befogadóállomás
 befogadóképesség
-befogadóság
 befogadta
 befogadtat
 befogalmaz
@@ -10717,7 +10664,6 @@ beföldel
 befőtt
 befőttek
 befőttes
-befőttestál
 befőttesüveg
 befőz
 befőzés
@@ -10740,7 +10686,6 @@ befúl
 befullad
 befulladt
 befullaszt
-befunkcionál
 befúr
 befurakodik
 befurakszik
@@ -10762,7 +10707,6 @@ befúvás
 befúvat
 befúvódik
 befúvószerkezet
-befüggeszd
 befüggeszt
 befüggönyöz
 befülel
@@ -10868,7 +10812,6 @@ begubódzik
 begubózás
 begubózik
 beguggol
-beguina
 bégum
 begumiz
 begurít
@@ -10907,7 +10850,6 @@ begyökerezik
 begyökereztet
 begyömöszöl
 begyömöszölés
-begyöpösödik
 begyöpösödött
 begyötör
 begyújt
@@ -11035,7 +10977,6 @@ behaviorizmus
 beházasít
 beházasodik
 behazudik
-behéderel
 beheged
 behegedő
 behegeszt
@@ -11051,7 +10992,6 @@ behemót
 behemperedik
 behemperget
 behemzseg
-behendió
 behengerel
 behengerget
 behergel
@@ -11074,7 +11014,6 @@ behipnotizál
 behirdet
 behisz
 behisztizik
-behiv
 behív
 behíva
 behívás
@@ -11248,9 +11187,7 @@ beírás
 beírat
 beíratás
 beiratkozás
-beíratkozás
 beiratkozik
-beíratkozik
 beiratkozottak
 beiratoz
 beirdal
@@ -11259,7 +11196,6 @@ beirkál
 beíródik
 beírogat
 beírt
-beirtás
 beiskoláz
 beiskolázás
 beiskoláztat
@@ -11271,7 +11207,6 @@ beismerte
 beismerten
 beismertet
 beismétel
-beistenít
 beiszapol
 beiszapolódik
 beiszaposodik
@@ -11343,7 +11278,6 @@ bejötte
 bejövet
 bejövetel
 bejövő
-bejrút
 bejut
 bejutás
 bejuttat
@@ -11369,8 +11303,6 @@ békafark
 bekáfol
 békahal
 bekajál
-bekakál
-bekakil
 békakonty
 békakorsó
 békakő
@@ -12363,7 +12295,6 @@ belefütyül
 belefűz
 belefűződik
 belég
-bélég
 belegabalyít
 belegabalyítás
 belegabalyodás
@@ -12545,7 +12476,6 @@ belehömpölyög
 belehörög
 belehörpint
 belehörpöl
-belehugyoz
 belehugyozik
 belehuhog
 belehullajt
@@ -12633,8 +12563,6 @@ belekaffant
 belekaffog
 belekagylózik
 belekajál
-belekakál
-belekakil
 belekalandozik
 belekalapál
 belekalimpál
@@ -13168,7 +13096,6 @@ beleprüszköl
 belépte
 beléptet
 belépti
-beléptidíj
 belepuffan
 belepuhul
 belepukkad
@@ -13791,10 +13718,8 @@ belföldi
 belföldön
 bélfürdő
 belga
-belganyúl
 bélgáz
 bélgiliszta
-belgium
 belgiumi
 bélgörcs
 bélgörcsös
@@ -13805,10 +13730,9 @@ belgyógyászati
 bélgyulladás
 belháború
 bélháj
-belhám
+bélhám
 belharc
 belhártya
-belházasság
 bélhúr
 bélhúrkészítő
 bélhúrsodró
@@ -13831,11 +13755,9 @@ beljebb
 beljebbez
 béljós
 belkereskedelem
-belkezes
 belklinika
 bélkorgás
 belkörű
-bell
 béllet
 bélletív
 belletrisztika
@@ -13871,7 +13793,6 @@ belopóik
 belopózik
 belopózkodik
 belorusz
-belorusszia
 belottyad
 belovagol
 belovagolatlan
@@ -13944,7 +13865,6 @@ belül
 belüli
 belülre
 belülről
-belülső
 belváros
 belvárosban
 belvárosi
@@ -14108,7 +14028,6 @@ bemódosít
 bemohosodik
 bemond
 bemondás
-bemondástíró
 bemondat
 bemondható
 bemondó
@@ -14168,8 +14087,6 @@ benedvesítés
 benedvez
 beneficium
 benemavatkozási
-benempt
-benempted
 benépesedik
 benépesít
 benépesítés
@@ -14185,7 +14102,6 @@ benézdegél
 benézeget
 benézni
 bengáli
-bengália
 bengálitűz
 benge
 bengekéreg
@@ -14264,7 +14180,6 @@ bent
 benti
 bentlakó
 bentonit
-bentosz
 bénul
 bénulás
 bénulásos
@@ -14294,8 +14209,8 @@ benzinutalvány
 benzinüzemű
 benzoé
 benzoéfa
-benzoégumi
 benzoesav
+benzoeviasz
 benzol
 benzolgyűrű
 benzolszármazék
@@ -14466,7 +14381,6 @@ bepaníroz
 bepaprikáz
 beparádézik
 beparaffinoz
-beparafinoz
 beparancsol
 bepárásít
 bepárásodik
@@ -14484,7 +14398,6 @@ bepárosodik
 bepároztat
 bepárzik
 bepaskol
-bepászít
 bepasszíroz
 bepasszít
 bepasszol
@@ -14676,7 +14589,6 @@ berbécs
 bérbefagyasztás
 berber
 bérbeszedő
-bérbevesz
 bérbevétel
 bérc
 bércfok
@@ -14690,7 +14602,6 @@ bereccsen
 bereccsent
 berecseg
 beredőnyözés
-bereffel
 bereggelizik
 beregi
 beregisztrál
@@ -14809,10 +14720,7 @@ berkenyefa
 bérkiegészítés
 bérkocsi
 bérkocsiállomás
-bérkocsifuvarozás
-bérkocsifuvarozó
 bérkocsis
-bérkocsitulajdonos
 bérköltség
 bérkövetelés
 bérlajstrom
@@ -14833,7 +14741,6 @@ bérletrendszer
 bérletszünet
 bérlettulajdonos
 bérlevél
-berlin
 berlinerkendő
 berlini
 bérlista
@@ -14854,9 +14761,7 @@ bérmentesítés
 bérmentesítetlen
 bérmentesített
 bérmentve
-bérmetesített
 bérminimum
-bérmininmum
 bérmozgalom
 bermudai
 bermudák
@@ -14942,7 +14847,6 @@ berúgat
 berúgatás
 berugdal
 berugdos
-berúgik
 berúgni
 berúgó
 berúgókar
@@ -14957,7 +14861,6 @@ berukkol
 berumlizik
 berúzsoz
 bérviszony
-berzenke
 berzenkedik
 berzseny
 berzsenyfa
@@ -15021,7 +14924,6 @@ beslattyog
 beslisszol
 besmárol
 besminkel
-besmúzol
 besodor
 besodródik
 besóhajt
@@ -15070,7 +14972,6 @@ bespurizik
 besraffoz
 besrófol
 besrófolás
-bestancol
 bestartol
 beste
 bestia
@@ -15198,7 +15099,7 @@ beszármazik
 beszárnyal
 beszavaz
 beszavaztat
-beszé
+besze
 beszed
 beszéd
 beszédalakzat
@@ -15254,7 +15155,6 @@ beszegez
 beszegezés
 beszegődik
 beszegődtet
-beszegpdik
 beszégyenkezik
 beszékel
 beszekerezik
@@ -15390,8 +15290,9 @@ beszögellik
 beszögez
 beszögezés
 beszökdécsel
-beszökdell
+beszökdel
 beszökdös
+beszökell
 beszökik
 beszőkít
 beszökken
@@ -15404,7 +15305,6 @@ beszőrösödik
 beszövés
 beszövődik
 bessz
-besszemerez
 besszjátékos
 beszuggerál
 beszundizik
@@ -15442,7 +15342,6 @@ beszürkül
 beszűrő
 beszűrődés
 beszűrődik
-beta
 béta
 betábláz
 betáblázás
@@ -15651,7 +15550,6 @@ betét
 betétállomány
 betétben
 betétdarab
-betétel
 betétes
 betetet
 betétet
@@ -15693,7 +15591,6 @@ betintázik
 betipeg
 betipor
 betippel
-betlehem
 betlehemes
 betlehemi
 betlehemjárás
@@ -15705,8 +15602,6 @@ betódul
 betódulás
 betoji
 betojik
-betokolódás
-betokolódik
 betokosít
 betokosodik
 betokozódás
@@ -15842,7 +15737,6 @@ betűanyag
 betűanyagminta
 betűcsalád
 betűcsere
-betűdefinició
 betűejtés
 betűfaj
 betűfajta
@@ -15897,11 +15791,9 @@ betűsorja
 betűsoros
 betűszámtan
 betűszedés
-betüszedő
 betűszedő
 betűszedőgép
 betűszekrény
-betűszerinti
 betűszerintiség
 betűszó
 betűtest
@@ -16281,7 +16173,6 @@ bezsugorít
 bezsugorodik
 bezsuppol
 bezsűrizik
-bhajózás
 biankó
 biatlon
 biaxiális
@@ -16320,7 +16211,6 @@ bibliaterjesztő
 bibliatudós
 biblikus
 bibliofil
-bibliofilia
 bibliofília
 bibliográfia
 bibliográfiai
@@ -16383,7 +16273,6 @@ bicskáz
 bicskázás
 bidé
 biedermeier
-biffin
 bifláz
 biflázás
 biflázik
@@ -16430,13 +16319,13 @@ bikinifelső
 bikonkáv
 bikonvex
 bikromatikus
-bikron
 bilabiális
 bilaterális
 biléta
 bilgeri
 bilgericsizma
 bilharzia
+bilharziózis
 bili
 biliárd
 biliárdasztal
@@ -16519,7 +16408,6 @@ biobrikett
 biociklus
 biocönózis
 biodinamika
-bioelektrikus
 bioelektromosság
 biofizika
 biofizikus
@@ -16598,17 +16486,12 @@ birkatürelem
 birkaúsztatás
 birkaúsztató
 birkózás
-bírkózás
 birkózásban
-birkozik
 birkózik
-bírkózik
 birkózó
-bírkózógép
+birkózógép
 birkózóiskola
 birkózószőnyeg
-bírlalás
-birmingham
 birminghami
 bírni
 bíró
@@ -16641,9 +16524,7 @@ bírt
 bírtál
 birtok
 birtokállomány
-birtokbalépés
 birtokbavétel
-birtokbavevés
 birtokeladás
 birtokfosztás
 birtokháborítás
@@ -16672,15 +16553,10 @@ birtoktest
 birtokvágy
 birtokviszony
 bírvágy
-bírvágyó
-bis
-bison
 biszbasz
 biszexuális
 biszkvit
-bisszusos
 bisztró
-biszturi
 bit
 bitang
 bitangol
@@ -16694,7 +16570,6 @@ bitorló
 bitorol
 bitorolt
 bitumen
-bitumenbarna
 bitumenes
 bitumenez
 bitumenezés
@@ -16738,11 +16613,9 @@ bizalommal
 bizalomteljes
 bizalomteljesen
 bizalomteremtés
-bizánc
 bizánci
 bizantinizmus
 bizantinológus
-bizantinus
 bizarr
 bizarrság
 bizarrul
@@ -16810,7 +16683,6 @@ bizottmány
 bizottság
 bizottsági
 biztat
-bíztat
 biztatás
 biztatgat
 biztató
@@ -16869,7 +16741,6 @@ blama
 blamál
 blamázs
 blanketta
-blankfilm
 blankvers
 blansíroz
 blaszfémia
@@ -16917,17 +16788,15 @@ blúzanyag
 blúzmell
 blúzpótló
 boa
-board
 boázik
 bob
 bobajka
-bobbinetkelme
-bobbozik
 bobi
 bóbiskál
 bóbiskol
 bóbita
 bóbitás
+bobozik
 boci
 bocs
 bocsánat
@@ -16968,7 +16837,6 @@ bodrosodik
 bodrosság
 bodroz
 bodrozódik
-boduár
 bódul
 bódulat
 bódult
@@ -16984,13 +16852,10 @@ bodzapuska
 bodzás
 bodzatea
 bodzavirág
-boehmit
 bog
-bogácsol
 bogáncs
 bogáncskóró
 bogáncslepke
-bogáncsolás
 bogáncsos
 bogáncspihe
 bogár
@@ -17040,7 +16905,6 @@ bogyótermés
 bogyózó
 bohém
 bohémség
-bohémvilág
 bóher
 bohó
 bohóc
@@ -17098,13 +16962,10 @@ bokázás
 bokázik
 bokázó
 bokazokni
-bokkol
-bokkolás
 bóklászik
 bókol
 bókolás
 bókolgat
-bókony
 bokor
 bokorbab
 bokorhegyi
@@ -17133,11 +16994,11 @@ bokszolásban
 bokszolási
 bokszoló
 bokszolóként
+bokszos
 bokszring
 bokszütés
 boldog
 boldogan
-boldoggáavatás
 boldogít
 boldogító
 boldogság
@@ -17223,7 +17084,6 @@ boltmező
 boltos
 boltosné
 boltosok
-boltossegéd
 boltoz
 boltozat
 boltozaté
@@ -17236,11 +17096,12 @@ boltozatvállkő
 boltozatzsaluzás
 boltozódik
 boltozott
+boltsegéd
 boltváll
 boltvállréteg
 boltvállsor
 boltvezető
-bolusz
+bólusz
 boly
 bolydít
 bolydul
@@ -17375,11 +17236,9 @@ bonyolít
 bonyolító
 bonyolódás
 bonyolódik
-bonyolulat
 bonyolult
 bonyolultan
 bonyolultság
-book
 bor
 bór
 bóra
@@ -17390,7 +17249,6 @@ borárjegyzék
 borász
 borászat
 borát
-borax
 bórax
 borbálafű
 borbarát
@@ -17411,7 +17269,6 @@ borda
 bordacsíkok
 bordacsont
 bordaeltávolítás
-bordafáz
 bordafog
 bordai
 bordák
@@ -17439,7 +17296,6 @@ bordó
 bordói
 bordósíp
 bordóvörös
-bordür
 bordűr
 boreális
 borecet
@@ -17459,7 +17315,6 @@ borhab
 borhamisítás
 borház
 bórhidrogén
-borid
 borissza
 borít
 borital
@@ -17530,13 +17385,10 @@ borlikőr
 bormérés
 bormérő
 bormuslinca
-born
 bornemissza
-borneó
 bornírt
 bornit
 bornitszerű
-bornittartalmú
 bornyomókád
 bornyú
 borocska
@@ -17610,7 +17462,6 @@ borotvapamacs
 borotvapenge
 borotvaszappan
 borotvaszíj
-borough
 borovicska
 borozás
 borozgat
@@ -17652,7 +17503,6 @@ borsóliszt
 borsópüré
 borsos
 borsós
-borsosmenta
 borsószalma
 borsószár
 borsószem
@@ -17715,7 +17565,6 @@ borzalmasság
 borzalom
 borzamat
 borzas
-borzasítás
 borzaskata
 borzasság
 borzaszt
@@ -17740,7 +17589,6 @@ borzvadászat
 borzsák
 borzsörte
 bosnyák
-boston
 boszi
 boszorka
 boszorkány
@@ -17851,26 +17699,15 @@ botrányper
 botrendszer
 botsáska
 botszék
-botulinustoxin
+botulinumtoxin
 botulizmus
 botütés
 botváltó
 botvívás
 bouillon
 bóvli
-bóvligyártó
 bóvliz
 bowling
-box
-boxer
-boxkesztyű
-boxmérkőzés
-boxos
-boxosbence
-boy
-boyos
-boysapka
-bozas
 bozont
 bozontos
 bozontosan
@@ -17909,6 +17746,7 @@ bögrényi
 bögy
 bögyörő
 bögyös
+böhmit
 böjt
 böjtfű
 böjti
@@ -17967,7 +17805,6 @@ bömbölő
 bömböltet
 böngész
 böngészde
-böngészet
 böngészik
 böngésző
 böngészők
@@ -18037,7 +17874,6 @@ bőrkamásli
 bőrkarika
 bőrkárpitozás
 bőrke
-bőrkemény
 bőrkeményedés
 bőrkeményedéses
 bőrkereskedés
@@ -18137,7 +17973,6 @@ bőrű
 bőrülés
 bőrvászon
 bőrviszketegség
-bőrvizenyvizsgáló
 börze
 börzejátékos
 bőrzeke
@@ -18170,7 +18005,6 @@ bőven
 bővérű
 bővérűség
 bővít
-bövités
 bővítés
 bővített
 bővítmény
@@ -18179,22 +18013,14 @@ bővítőcső
 bővizű
 bővül
 bővülés
-bözsi
-brachiopodák
-brachycephal
-brachycephalia
-bracteata
 brácsa
 brácsás
 brácsázik
-brága
 brahi
 brahizás
 brahman
 brahmanizmus
 brahmin
-brámin
-branchia
 brancs
 brandy
 bratyi
@@ -18211,7 +18037,6 @@ bravúrosan
 bravúroskodásból
 bravúroskodik
 brazil
-brazília
 brazíliai
 breccsa
 brekeg
@@ -18239,7 +18064,6 @@ brigádverseny
 brigádvezető
 brigádvezetői
 briganti
-brigg
 brikett
 brikettezés
 brikettgyár
@@ -18247,7 +18071,6 @@ briliáns
 briliánsgyűrű
 brill
 brillantin
-brilliáns
 brillírozik
 brindza
 bringa
@@ -18257,10 +18080,7 @@ briós
 briósféle
 brit
 britek
-briton
 brizáns
-broadway
-brocatello
 brokát
 brokátfüggöny
 bróker
@@ -18272,23 +18092,14 @@ brómezüst
 brómhidrogén
 brómhidrogénsav
 bromid
-brómmetán
 brómolajeljárás
 brómoz
 brómpapír
 brómzselatin
-bronchiectasia
-bronchiolus
-bronchoscop
-bronchoscopia
-bronchotomia
-bronchustágulat
-brontosaurus
 bronz
 bronzérem
 bronzfigura
 bronzkor
-bronzkór
 bronzkorszak
 bronzlevél
 bronzműves
@@ -18306,16 +18117,11 @@ bronzszínű
 bronzszobor
 bross
 brosstű
-brossúra
 brosúra
-brothers
-browning
 brucellózis
 brúgó
 bruhaha
 brummog
-brunzol
-brunyál
 brusztol
 brutális
 brutálisan
@@ -18334,7 +18140,6 @@ búbánatosan
 bubi
 bubifrizura
 bubigallér
-búbó
 búbol
 búbolás
 bubópestis
@@ -18346,9 +18151,7 @@ buborékpont
 buboréksapka
 buboréktányér
 buboréktároló
-buboros
 búbos
-buca
 bucakemence
 buci
 bucka
@@ -18386,7 +18189,6 @@ búcsúztatás
 búcsúztató
 budafoki
 budai
-budapest
 budapesti
 budavirág
 buddhista
@@ -18413,7 +18215,6 @@ bugyborékol
 bugyborékolás
 bugyborékoló
 bugyelláris
-buggy
 buggyan
 buggyant
 buggyantat
@@ -18445,7 +18246,7 @@ bujdosás
 bujdosik
 bujdosó
 bújik
-bujka
+bújka
 bujkál
 bujkálás
 bujkáló
@@ -18516,20 +18317,16 @@ buktatórács
 buktatós
 buktatószerkezet
 buktázik
-bula
 buldog
-bulgár
-bulgária
+buldogkölyök
+buldózer
+buldózeres
 bulgáriai
 buli
 buliban
 bulimia
 bulizik
 bulla
-bulldog
-bulldogkölyök
-bulldózer
-bulldózeres
 bulletin
 bulvár
 bulvárlap
@@ -18538,16 +18335,12 @@ bumeráng
 bumfordi
 bumlizik
 bumm
-bumtő
-bumvilla
 bunda
 bundabélés
 bundacipő
 bundapálinka
 bundás
-bundásalma
 bundásbogár
-bundáskenyér
 bundázik
 bundázott
 bungaló
@@ -18595,7 +18388,6 @@ burgonyaverem
 burgonyavész
 burgonyavetés
 burgundi
-burgundia
 burgundiai
 burján
 burjánoztat
@@ -18603,7 +18395,6 @@ burjánzás
 burjánzik
 burjánzó
 burját
-búrkalap
 búrkifli
 burkol
 burkolás
@@ -18625,9 +18416,7 @@ burkolt
 burkoltan
 burkus
 burleszk
-burma
 burmai
-burmán
 burnót
 burnótos
 burnótozik
@@ -18647,7 +18436,6 @@ busafejű
 búsan
 busás
 búsás
-bushelmennyiség
 búsít
 búskomor
 búskomoran
@@ -18668,7 +18456,6 @@ busz
 buszállomás
 buszjárat
 buszjegy
-buszmegállo
 buszmegálló
 buszozik
 busszal
@@ -18689,7 +18476,6 @@ butella
 butén
 butik
 butil
-butilacetát
 butilén
 butirin
 butirométer
@@ -18815,9 +18601,7 @@ buzdító
 buzdul
 buzér
 buzerál
-buzeralökés
 buzeráns
-buzeráról
 buzérvörös
 buzgalom
 buzgár
@@ -18834,9 +18618,9 @@ buzogánygyakorlat
 buzogányos
 buzogás
 buzuki
-buzul
 bűbáj
 bűbájdió
+bűbájol
 bűbájolás
 bűbájos
 bűbájosan
@@ -18849,7 +18633,6 @@ büdösít
 büdöske
 büdöskő
 büdösödik
-büdösrózsa
 büdösség
 büdzsé
 büfé
@@ -18878,7 +18661,6 @@ bűnbánó
 bűnbánóan
 bűnbarlang
 bűnbeesés
-bűnbeesett
 bűnbocsánat
 bűnbocsánatárus
 bűncselekmény
@@ -18928,7 +18710,6 @@ büntethetetlen
 büntethető
 büntethetőség
 büntetlen
-bűntetlen
 büntetlenség
 büntetlenül
 büntető
@@ -18942,7 +18723,6 @@ büntetőintézet
 büntetőjog
 büntetőjogász
 büntetőjogi
-büntetőleg
 büntetőper
 büntetőpont
 büntetőrúgás
@@ -18974,7 +18754,6 @@ bürokratikus
 bürokratikusan
 bürokratizálódik
 bürokratizmus
-bürolkrácia
 bürök
 bürü
 büszke
@@ -18997,7 +18776,6 @@ bütykösség
 bütyköstengely
 bütyök
 bűverő
-büvész
 bűvész
 bűvészet
 bűvészinas
@@ -19033,7 +18811,6 @@ bűzpatak
 bűzrúd
 bűztelenítés
 byte
-cabriolet
 cachexia
 cachexiás
 cafat
@@ -65196,7 +64973,6 @@ jobbrahegesztés
 jobbratolódás
 jobbszárny
 jobbszélső
-jobbszerelő
 jobbul
 jobbulás
 jócselekmény
@@ -65948,7 +65724,6 @@ káka
 kákabélű
 kakadu
 kákagyékény
-kakál
 kakaó
 kakaóbab
 kakaócserje
@@ -65979,10 +65754,7 @@ kakasülő
 kakasviadal
 kakasszó
 kakecol
-kaki
 kákics
-kakil
-kakilás
 kakofónia
 kakofonikus
 kaktusz
@@ -72354,8 +72126,6 @@ kikacsingat
 kikacsint
 kikacsol
 kikagylózik
-kikakál
-kikakil
 kikakukkol
 kikalandozik
 kikalapácsol
@@ -85322,8 +85092,6 @@ lekacsol
 lekacsoz
 lekáderez
 lekajál
-lekakál
-lekakil
 lekalapácsol
 lekalapál
 lekalauzol
@@ -92834,7 +92602,6 @@ megismétlés
 megismétlő
 megismétlődés
 megismétlődik
-megistenít
 megiszik
 megiszogat
 megiszonyodik
@@ -103790,8 +103557,6 @@ odakacag
 odakacsázik
 odakacsint
 odakaffant
-odakakál
-odakakil
 odakalandozik
 odakalauzol
 odakalligrafál
@@ -108123,8 +107888,6 @@ ozorai
 összekacsol
 összekaffant
 összekajál
-összekakál
-összekakil
 összekalapácsol
 összekalapál
 összekalapoz
@@ -133244,7 +133007,6 @@ telek
 telekadó
 telekadósság
 telekajál
-telekakál
 telekamerázik
 telekár
 telekárpitoz
@@ -137968,6 +137730,7 @@ triászkorabeli
 triatlon
 triatlonista
 tribunusi
+tributirin
 tribün
 triceps
 trichiázis
@@ -139674,6 +139437,7 @@ tűnőleg
 tüntet
 tüntetés
 tüntető
+tüntetőleg
 tűpárna
 tűpénz
 tűperem
@@ -146466,6 +146230,7 @@ vérmérséklet
 vérmérsékletű
 vérmes
 vérmesség
+vérmétely
 vérmező
 vermikulit
 vérminta
