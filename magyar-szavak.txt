@@ -8884,6 +8884,7 @@ balalajka
 balansz
 balanszíroz
 bálanya
+bálarakodó
 balassis
 balatoni
 báláz
@@ -22830,9 +22831,6 @@ deflál
 deflegmáció
 deflegmátor
 deflektor
-deflorál
-deflorálás
-defloreál
 defoliáns
 deformáció
 deformál
@@ -26154,7 +26152,6 @@ egyhúros
 egyhúrú
 egyhuzamban
 egyhüvelyűek
-egyideig
 egyidejű
 egyidejűen
 egyidejűleg
@@ -36732,8 +36729,6 @@ ezerszeresen
 ezerszerte
 ezért
 ézés
-ezidáig
-ezideig
 ezidén
 ezoterikus
 ezoterizmus
@@ -45622,7 +45617,6 @@ fortyan
 fortyog
 fortyogás
 fórum
-fos
 fosás
 fosógém
 fosóhomok
@@ -70692,7 +70686,6 @@ kiegyenlítőlap
 kiegyenlítőmű
 kiegyensúlyoz
 kiegyensúlyozás
-kiegyensúlyozatla
 kiegyensúlyozatlan
 kiegyensúlyozatlanság
 kiegyensúlyozó
@@ -77625,7 +77618,6 @@ köntörfalaz
 köntörfalazás
 köntörfalazó
 köntös
-könyebb
 könyék
 kőnyest
 könny
@@ -97077,7 +97069,6 @@ mezőgazdasági
 mezőgazdaságtan
 mezőgazdaságtani
 mezőgazdász
-mezőgbálarakodó
 mezők
 mezőmágnes
 mezőn
@@ -97094,7 +97085,6 @@ mezőtűz
 mezőváros
 mézpázsit
 mézpergető
-mezquite
 méztartó
 meztelen
 meztelenít
@@ -97113,9 +97103,6 @@ mezsgyekő
 mézsör
 mézszín
 mézszínű
-mgköt
-mgmerevít
-mgszór
 mi
 miá
 miákol
@@ -97153,7 +97140,6 @@ miféle
 mifelénk
 míg
 mígnem
-mignon
 migráció
 migrén
 migrénes
@@ -97174,7 +97160,6 @@ mikor
 mikorra
 mikortól
 miközben
-mikro
 mikró
 mikroállapot
 mikroanalízis
@@ -97240,7 +97225,6 @@ mikropórusos
 mikroprocesszor
 mikrorizikó
 mikrosebészet
-mikrosec
 mikrospóra
 mikroszeizmográf
 mikroszekundum
@@ -97256,7 +97240,6 @@ mikrotom
 mikulás
 mikulásvirág
 milánói
-mileneum
 miliaria
 milícia
 milicista
@@ -97342,7 +97325,6 @@ mindenes
 mindenesetre
 mindeneslány
 mindenestül
-mindenevés
 mindenevő
 mindenfajta
 mindenfelé
@@ -97376,7 +97358,6 @@ mindentudó
 mindenünnen
 mindenütt
 mindez
-mindezideig
 mindhalálig
 mindhárman
 mindhárom
@@ -97431,13 +97412,11 @@ minimum
 minimumhőmérő
 ministrál
 ministráns
-ministrás
 miniszoknya
 miniszter
 miniszterelnök
 miniszterelnöki
 miniszterelnökség
-miniszterhelyette
 miniszterhelyettes
 miniszteri
 miniszteriális
@@ -97450,7 +97429,6 @@ minisztertanács
 minisztertanácsi
 minitaxi
 minitenisz
-minium
 mínium
 míniumfesték
 minket
@@ -97577,7 +97555,6 @@ miről
 mirtusz
 mirtuszbogyó
 mirtuszkoszorú
-miscellaneous
 mise
 misebor
 misecsengő
@@ -97606,7 +97583,6 @@ missouri
 mísz
 miszerint
 míszes
-misszále
 misszilis
 misszió
 misszionárius
@@ -97647,7 +97623,6 @@ mivolta
 mixel
 mixer
 mixolíd
-mixtura
 mixtúra
 mizantróp
 mizéria
@@ -97746,7 +97721,6 @@ modortalanság
 modortalanul
 modorú
 módos
-modósít
 módosít
 módosítás
 módosítatlan
@@ -97812,12 +97786,9 @@ mohácsi
 moháé
 mohafödte
 mohagyűjtő
-mohair
 mohakő
-mohamedámizmus
 mohamedán
 mohamedanizmus
-mohamedánizmus
 mohamedánoké
 moharózsa
 mohás
@@ -97849,13 +97820,11 @@ mokka
 mokkacukor
 mokkakávé
 mokkáskanál
-mókuci
 mókus
 mókuska
 mókuskalitka
 mókuskerék
-mókusodu
-mókusom
+mókusodú
 mókusprémes
 mókusprémsapka
 mol
@@ -102305,6 +102274,7 @@ nyolcadrét
 nyolcadszor
 nyolcadvér
 nyolcan
+nyolcanként
 nyolcas
 nyolcasával
 nyolcaskötés
@@ -128090,15 +128060,13 @@ színkeverés
 színkezelés
 szinklinális
 szinkópa
-szinkopál
-szinkopálás
+szinkópál
+szinkópálás
 színköltemény
 színkör
 színközlő
 szinkretizmus
-szinkró
 szinkrociklotron
-szinkromatikus
 szinkron
 szinkrón
 szinkrónia
@@ -128137,7 +128105,7 @@ szinódus
 színoldal
 szinonim
 szinonima
-szinonímák
+szinonimák
 szinonimakutató
 szinonimaszótár
 szinonímia
@@ -128146,7 +128114,6 @@ szinoptikus
 színorgia
 szinoviális
 színösszeállítás
-színösszehasonlításra
 színpad
 színpadfelirat
 színpadi
@@ -128163,7 +128130,6 @@ színpompa
 színpompás
 színpompásan
 színpróba
-színrehozás
 színrevitel
 színskála
 színszappan
@@ -128174,7 +128140,6 @@ színszűrők
 szint
 szintagma
 szintaktikai
-szintalatti
 színtanoda
 szintannyi
 színtársulat
@@ -128229,8 +128194,8 @@ szintszám
 szintúgy
 szintvonal
 szinusz
-színuszgörbe
-színuszos
+szinuszgörbe
+szinuszos
 színutánzás
 színű
 színültig
@@ -128275,7 +128240,6 @@ szippantás
 szippantat
 szippantgat
 szippantó
-szipuzik
 szír
 szirén
 sziréna
@@ -128284,7 +128248,6 @@ szirénahang
 szirénázás
 szirénázik
 szirénhang
-szíria
 szíriai
 sziringomiélia
 sziringotómia
@@ -150245,7 +150208,6 @@ vulgárisan
 vulgarizál
 vulgarizálás
 vulgarizmus
-vulgataszöveg
 vulkán
 vulkáncsatorna
 vulkánfíber
@@ -150268,15 +150230,12 @@ vulkánosság
 vulkánoz
 vulkánozás
 vulkántorok
-vulvaris
 vurst
 vurstli
 vurstliban
 vurstlirész
 walesi
 walesiek
-walkür
-washington
 watt
 wattérték
 wattfogyasztás
@@ -150289,25 +150248,17 @@ weblap
 webmester
 weboldal
 webszerver
-week
-weeks
-wellington
-werewolf
 wertheimzár
-wesleyánus
 western
 whiskey
 whisky
 whiskys
 whistjáték
 whistverseny
-wigwam
 wolfram
 wolframacél
 wolframit
 wollastonit
-work
-works
 wurlitzer
 xantin
 xantogenát
@@ -150329,14 +150280,6 @@ xilométer
 yamgyökér
 yard
 yardmennyiség
-yards
-year
-years
-ynolcanként
-yorkshire
-younger
-your
-yours
 zab
 zaba
 zabagép
@@ -150484,7 +150427,6 @@ zamatos
 zamatosan
 zamatosság
 zambezi
-zambó
 zanót
 zanza
 záp
@@ -150730,6 +150672,7 @@ zeller
 zellergyökér
 zellerkrémleves
 zellerszár
+zelnicemeggy
 zelóta
 zelótaság
 zempléni
@@ -150859,8 +150802,6 @@ ziláltság
 ziliz
 zimankó
 zimankós
-zippzár
-zipzár
 zivatar
 zivatarél
 zivatarfelhő
@@ -151020,6 +150961,7 @@ zöldfülű
 zöldfülűség
 zöldgálic
 zöldhagyma
+zöldhályog
 zöldhályogos
 zöldharkály
 zöldhasú
@@ -151172,7 +151114,6 @@ zuhog
 zuhogó
 zuhogott
 zulu
-zuluföld
 zupa
 zuppan
 zuppanás
@@ -151187,7 +151128,6 @@ zúzmara
 zúzmaraképződés
 zúzmarás
 zuzmó
-zúzmó
 zúzó
 zúzódás
 zúzódik
@@ -151249,7 +151189,6 @@ zsákruha
 zsákszerű
 zsákszövet
 zsákutca
-zsákutja
 zsákvarró
 zsákvarrótű
 zsákvászon
@@ -151280,7 +151219,6 @@ zsánerfestészet
 zsánerfestő
 zsánerfigura
 zsánerkép
-zsanett
 zsanetti
 zsaponlakk
 zsarát
@@ -151348,7 +151286,6 @@ zsebpisztoly
 zsebrádió
 zsebrák
 zsebretesz
-zsebrevágó
 zsebsakk
 zsebszámológép
 zsebszótár
@@ -151524,7 +151461,6 @@ zsinórpadlás
 zsinórszerű
 zsinórzat
 zsióka
-zsir
 zsír
 zsiradék
 zsiradékok
@@ -151532,7 +151468,6 @@ zsiráf
 zsirál
 zsirardi
 zsirardikalap
-zsírátnemeresztő
 zsírdaganat
 zsírellátás
 zsírfecskendő
@@ -151599,7 +151534,6 @@ zsivaj
 zsivajgás
 zsivajgó
 zsivajogva
-zsivaly
 zsivány
 zsiványság
 zsizsik
@@ -151663,7 +151597,6 @@ zsúfolt
 zsúfoltság
 zsúfolva
 zsuga
-zsugor
 zsugorgat
 zsugori
 zsugorian
