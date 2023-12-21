@@ -3592,7 +3592,6 @@ altalaj
 általkészít
 általkezdeményez
 általkínál
-általkötöz
 általlakik
 általlát
 általlendít
@@ -11682,7 +11681,6 @@ bekötött
 bekötőút
 bekötővas
 bekötöz
-bekötözködik
 beköttet
 bekövesedik
 bekövet
@@ -29372,7 +29370,6 @@ elkötelezettség
 elkötés
 elkötődik
 elkötöget
-elkötöz
 elköttet
 elkövéredik
 elkövesedik
@@ -72160,7 +72157,6 @@ kikötőüzem
 kikötővám
 kikötőváros
 kikötöz
-kikötözködik
 kiköttet
 kikövéredik
 kikövesedik
@@ -84395,7 +84391,6 @@ léha
 lehaboz
 lehabozik
 lehabzik
-lehadakozik
 lehadar
 lehág
 lehagy
@@ -103607,7 +103602,6 @@ odasiklik
 odasimít
 odasimogat
 odasimul
-odasímul
 odaslattyog
 odaslisszol
 odasodor
