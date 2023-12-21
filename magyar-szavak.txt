@@ -19698,7 +19698,6 @@ cizellálatlan
 cizellált
 clonusos
 club
-cm
 coboly
 cobolyprém
 coca
@@ -58265,9 +58264,6 @@ hízómarha
 hízósertés
 hízott
 hja
-hl
-hm
-hmm
 hó
 hóakadály
 hóátfúvás
@@ -67193,7 +67189,6 @@ kazuárinafa
 kazuista
 kazuisztika
 kázus
-kb
 kcal
 kebel
 kebelbarát
@@ -75328,7 +75323,6 @@ klubtag
 klubtárs
 klubterem
 klumpa
-km
 knédli
 knockoutol
 koadjutor
@@ -82718,7 +82712,6 @@ lazsnak
 lazsnakol
 lázsömör
 lazsukál
-lcd
 le
 lé
 leaányság
@@ -97892,7 +97885,7 @@ molnárlegény
 molnármesterség
 molnárság
 molnárszínű
-    móló
+móló
 moloch
 molochgyík
 mólófej
@@ -98501,13 +98494,10 @@ mögött
 mögöttem
 mögöttes
 mögül
-mp
 muci
-mucikám
 mucus
 mucsa
 mucsai
-mucsán
 mudi
 muff
 muffin
@@ -113926,7 +113916,6 @@ pszihológus
 pszihopata
 pszikrométer
 pszoriázisos
-pszt
 pteroszaurusz
 ptializmus
 ptomain
@@ -122713,7 +122702,6 @@ svindler
 svindli
 svindlizik
 svung
-sz
 szab
 szabad
 szabadabb
@@ -132085,7 +132073,6 @@ taxizott
 taxonómia
 taxonómikus
 taxonómus
-tbc
 te
 tea
 teababa
@@ -137586,7 +137573,6 @@ trükkfilm
 trükkök
 trükkös
 trüszköl
-tsz
 tuba
 tubajátékos
 tubák
@@ -139410,12 +139396,10 @@ tűzszerész
 tűzszerszám
 tűzszőnyeg
 tűzszünet
-tv
 tviszt
 tvisztel
 tweed
 tweedöltöny
-tzds
 tyuhaj
 tyúk
 tyúkeszű
@@ -149974,16 +149958,8 @@ vízszolgáltatás
 vízszükséglet
 vízszűrő
 vízzsák
-vkiért
-vkinél
 vlach
-vmért
-vmin
-vmn
-vmnél
-vmre
 vmről
-vmt
 vodka
 vogul
 vokális
@@ -150307,7 +150283,6 @@ wattfogyasztás
 wattmérő
 wattóra
 wattos
-wc
 web
 webcím
 weblap
