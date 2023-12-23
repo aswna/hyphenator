@@ -8,8 +8,8 @@ by default this filename is ``magyar-szavak.txt``.
 
 Warning: the dictionary may contain non-existent, or inappropriate words!
 
-Ez az eszköz a magyar szavak szótagolva olvasását segíti,
-figyelembe vevé a Meixner-módszer ábécéjének tanulási sorrendjét.
+Ez az eszköz -- a Meixner-módszer ábécéjének tanulási sorrendjét
+figyelembe véve -- segíti a szótagolva olvasást.
 
 A program a szavakat a parancssorban megadott szótárból használja,
 ez alapesetben a ``magyar-szavak.txt`` nevű fájl.
