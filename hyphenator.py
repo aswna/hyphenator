@@ -83,12 +83,17 @@ def parse_args():
     """Parse command line arguments."""
     parser = argparse.ArgumentParser(
         formatter_class=argparse.ArgumentDefaultsHelpFormatter)
-    parser.add_argument("--level", type=int, default=0,
-                        help="level")
-    parser.add_argument("--dictionary", default="magyar-szavak.txt",
-                        help="dictionary to use")
-    parser.add_argument("--count", type=int, default=5,
-                        help="maximum number of words to give")
+    parser.add_argument('--level',
+                        type=int,
+                        default=0,
+                        help='level')
+    parser.add_argument('--dictionary',
+                        default='magyar-szavak.txt',
+                        help='dictionary to use')
+    parser.add_argument('--count',
+                        type=int,
+                        default=5,
+                        help='maximum number of words to give')
     args = parser.parse_args()
     return args
 
