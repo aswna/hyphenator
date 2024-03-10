@@ -48395,7 +48395,6 @@ gadolinium
 gádor
 gádorkáva
 gádzsó
-gag
 gagát
 gagátfekete
 gágog
@@ -48470,7 +48469,6 @@ galériaerdő
 galiba
 gálic
 gálickő
-galilea
 gall
 gallér
 gallércsomó
@@ -48480,7 +48478,6 @@ gallérmerevítő
 gallérú
 gallérvarró
 gallérvédő
-gallia
 galliai
 gallicizmus
 gallikán
@@ -48529,7 +48526,6 @@ ganajoz
 ganajozik
 ganajtúró
 gáncs
-gancsol
 gáncsol
 gáncsolás
 gáncsolható
@@ -48548,7 +48544,6 @@ ganéjtúró
 ganés
 ganéz
 gang
-gangesz
 gangliocita
 ganglion
 gangos
@@ -48602,11 +48597,9 @@ gardírozás
 gárdista
 gárdisták
 gárdonyis
-gardrob
 gardrób
 gardróbfogas
 gardróbszekrény
-gargalizál
 gargarizál
 gárgyul
 garmada
@@ -48622,19 +48615,16 @@ garral
 garzon
 garzonlakás
 garzontűzhely
-gastrulatio
+gastrula
 gasztritisz
 gasztroduodenális
-gasztrohepatitisz
 gasztronómia
 gasztronómiai
 gasztronómus
-gasztrula
 gát
 gátfutás
 gátfutó
 gátkerék
-gátkoronamagasság
 gátkő
 gátlás
 gátlásos
@@ -48748,7 +48738,6 @@ gazdatiszti
 gazdátlan
 gazdátlanság
 gazdátlanul
-gazdátlen
 gazdi
 gazduram
 gázégő
@@ -48760,7 +48749,6 @@ gázelvonás
 gazember
 gazemberek
 gazemberség
-gazembersség
 gázfalikar
 gázfejlesztés
 gázfejlesztő
@@ -48811,7 +48799,7 @@ gázmentesítés
 gázmérés
 gázmérgez
 gázmérgezés
-gázmérgezésés
+gázmérgezéses
 gázmérő
 gázmérőtartály
 gázmolekula
@@ -48918,7 +48906,7 @@ gégetükör
 gégetükrözés
 gejzerit
 gejzír
-gekko
+gekkó
 gél
 gélállomány
 gélállományú
@@ -48936,8 +48924,6 @@ gemkapocs
 gémkar
 gémköltőhely
 gemma
-gemmula
-gémorfaj
 gémorr
 gémtanya
 gén
@@ -48945,7 +48931,6 @@ genealógia
 genealógus
 generáció
 generációs
-general
 generál
 generálás
 generálbasszus
@@ -48965,7 +48950,6 @@ genetika
 genetikai
 genetikus
 genezis
-genf
 genfi
 gengszter
 gengszterbanda
@@ -48973,15 +48957,12 @@ gengszterizmus
 gengszterség
 gengsztervilág
 genitális
-genitive
 genitivus
 genitivusi
 genitofemorális
 géniusz
 génmanipulált
 genom
-genova
-genre
 génsodródás
 gentleman
 génua
@@ -49029,7 +49010,6 @@ geoizoterma
 geokémia
 geológia
 geológiai
-geological
 geológus
 geomágneses
 geomatematika
@@ -49037,14 +49017,11 @@ geometria
 geometriai
 geometrikus
 geometrizál
-geometry
 geomorf
 geomorfológia
 geopolitika
 geopolitikai
-georgia
 georgiai
-georgika
 geoszféra
 geosztatika
 geosztatikai
@@ -49144,7 +49121,6 @@ gépkocsiban
 gépkocsiforgalom
 gépkocsigarázs
 gépkocsigyártás
-gépkocsiigazolván
 gépkocsiipari
 gépkocsikenőcs
 gépkocsikíséret
@@ -49159,7 +49135,6 @@ gépkocsiszín
 gépkocsiváznál
 gépkocsiversenyző
 gépkocsivezető
-gépkocsivezetőnő
 gépkocsizás
 gépkocsizó
 gépkorszak
@@ -49240,7 +49215,6 @@ gerebenezés
 gerebenező
 gerebengomba
 gerebentűmező
-gerebléz
 gereblye
 gereblyél
 gereblyényi
@@ -49286,7 +49260,6 @@ gerillaharcos
 gerinc
 gerincagy
 gerincbántalom
-gerinccönk
 gerinces
 gerinceseké
 gerincgörbület
@@ -49304,7 +49277,6 @@ gerinctorony
 gerinctörés
 gerincű
 gerincvelő
-gerincvelőgyulladás
 gerincvezeték
 gerinccsapolás
 gerinccsatorna
@@ -49330,17 +49302,15 @@ germánium
 germanizál
 germanizmus
 germicid
-germó
-germon
 gerontokrácia
 gerontokrata
 gerontológia
 gersli
 gerundium
 gésa
-gesta
 gesz
 geszt
+geszta
 gesztenye
 gesztenyeárus
 gesztenyebarna
@@ -49376,7 +49346,6 @@ gézkötés
 gézkötőcsomó
 gézpólya
 gibbon
-gibraltár
 giccs
 giccses
 giccsfestő
@@ -49398,11 +49367,6 @@ gilisztacukor
 gilisztahajtó
 gilisztás
 gilisztatúrás
-gillos
-gillosál
-gillosálás
-gilosál
-gilosminta
 gím
 gímharaszt
 gimnasztika
@@ -49411,9 +49375,6 @@ gimnasztyorka
 gimnazista
 gimnázium
 gimnáziumi
-gimnoszófia
-gimnoszofista
-gimnoszperma
 gímnyelv
 gímpáfrány
 gimpli
@@ -49421,7 +49382,7 @@ gímszarvas
 gin
 ginekológia
 gingallóz
-gingkó
+gingko
 ginivó
 ginszeng
 ginszenggyökér
@@ -49438,7 +49399,6 @@ gipszes
 gipszfigura
 gipszhabarcs
 gipszkötés
-gipszmider
 gipszminta
 gipszmodell
 gipszöntő
@@ -49473,7 +49433,6 @@ gizgaz
 glaciális
 glaciológia
 glaciológiai
-glacis
 gladiátor
 gladiátori
 gladiólusz
@@ -49486,7 +49445,6 @@ glaszékesztyű
 glaubersó
 glaukonit
 glaukonitos
-glaxínia
 glazúr
 glazúrfesték
 gleccser
@@ -49501,7 +49459,6 @@ gleccsertó
 gleccserturzás
 gléda
 gledícsia
-gliadaganat
 glicerin
 glicerinez
 glicin
@@ -49542,7 +49499,7 @@ glosszátor
 glosszáz
 glosszofaringiális
 glosszográfus
-glucinium
+gloxínia
 gluon
 glutaminsav
 glutársav
@@ -49566,10 +49523,10 @@ gócpont
 goda
 godécia
 gofri
-gógó
+gogó
 gógyi
 gógyizik
-goj
+gój
 gokart
 gól
 gólarány
@@ -49601,7 +49558,7 @@ gólképes
 gólkirály
 góllövő
 góllövőlista
-gólnélküli
+gólnélküliség
 gólos
 gólszám
 gólszerző
@@ -49729,7 +49686,6 @@ gomolygás
 gomolygó
 gomolyog
 gonád
-gonadotrop
 gond
 gondatlan
 gondatlanság
@@ -49825,7 +49781,6 @@ gongütés
 goniométer
 goniometria
 gonorrea
-gonorrhea
 gonorrhoea
 gonorrhoeás
 gonosz
@@ -49833,7 +49788,7 @@ gonoszan
 gonoszkodás
 gonoszkodik
 gonoszkodó
-gonoszlelkű
+gonoszlelkűség
 gonoszság
 gonosztett
 gonosztevő
@@ -49849,7 +49804,6 @@ gordonkahang
 gordonkás
 gordonkázik
 góré
-gorgonida
 gorilla
 gorillaszerű
 gorkiji
@@ -49864,7 +49818,6 @@ gót
 gótika
 gótikus
 gouache
-gouvernante
 göb
 göbe
 göböly
@@ -49878,7 +49831,6 @@ gödény
 gödölye
 gödör
 gödörásó
-gödörkézettség
 gödröcske
 gödröcskés
 gödrök
@@ -49907,7 +49859,6 @@ gömbcsuklócsésze
 gömbék
 gömbfa
 gömbfelület
-gömbharmonikus
 gömbháromszög
 gömbháromszögtan
 gömbhéj
@@ -49942,7 +49893,6 @@ gömbvasmerevítő
 gömbvillám
 gönc
 gönci
-göncölszekér
 göndör
 göndörít
 göndörítés
@@ -50011,7 +49961,6 @@ görgőkerék
 görgőláb
 görgőnyílás
 görgőscsapágy
-görgősjárat
 görgősor
 görgővihar
 görkorcsolya
@@ -50036,7 +49985,6 @@ göröngy
 göröngyök
 göröngyös
 göröngyösség
-görönygyös
 görvély
 görvélyes
 görvélyfű
@@ -50144,7 +50092,6 @@ gőzsátor
 gőzsíp
 gőzsugár
 gőzsugárszivattyú
-gőzsugártápszivattyú
 gőzsűrítő
 gőzszállítás
 gőzszárító
@@ -50160,7 +50107,6 @@ grádicsos
 gradiens
 graduált
 grádus
-graff
 grafika
 grafikon
 grafikus
@@ -50173,19 +50119,14 @@ grafitpor
 grafológia
 grafológus
 grafománia
-gramineák
 gramm
-grammar
 grammatika
 grammatikus
-grammatit
-gramme
 gramofon
 gramofonlemez
 gramofonoz
 gramofontű
 gramofonzene
-gran
 gránát
 gránátalma
 gránáthüvely
@@ -50204,7 +50145,6 @@ gránátvető
 gránátvörös
 grand
 grandiózus
-grangerizál
 granicsár
 gránit
 gránitkocka
@@ -50219,9 +50159,8 @@ granulált
 granulátor
 granulit
 granulóma
-granulóz
+granulózis
 granum
-grapefruit
 grasszál
 gratiníroz
 grátisz
@@ -50231,7 +50170,6 @@ gratulál
 gratuláló
 gratulálok
 gratuláns
-grauwakke
 graviditás
 gravimetriai
 gravimetrikus
@@ -50252,7 +50190,6 @@ grenadírmars
 grépfrút
 griff
 griffmadár
-grigri
 grill
 grillázs
 grillcsirke
@@ -50272,15 +50209,12 @@ grófnő
 grófocska
 grófság
 grog
-gross
-grossz
 groteszk
 groteszkség
 grotta
 grund
 grupp
 grúz
-grúzia
 grúziai
 grüberli
 grüberlis
@@ -50289,9 +50223,7 @@ gründolás
 guajakfa
 guajáva
 guajávafa
-guano
 guanó
-guard
 guba
 gubacs
 gubacsdarázs
@@ -50323,10 +50255,7 @@ guggolva
 gugora
 gugorafej
 gugoratengely
-gúgyolódás
-guillechozik
 guillotine
-guinea
 gujávafa
 gukker
 gúla
@@ -50362,7 +50291,6 @@ gumicipő
 gumicucli
 gumicukor
 gumicukorka
-gumiculorka
 gumicsere
 gumicsizma
 gumicsónak
@@ -50392,7 +50320,6 @@ guminadrág
 guminyomásmérő
 gumiobjektív
 gumióvszer
-gumipa
 gumipapucs
 gumipárna
 gumipárnás
@@ -50416,12 +50343,10 @@ gumiszerelővas
 gumiszerű
 gumiszőnyeg
 gumiszövet
-gumitadó
 gumitalp
 gumitalpú
 gumitartalmú
 gumitej
-gumitel
 gumitermő
 gumitlanít
 gumitömb
@@ -50477,11 +50402,9 @@ gurítható
 gurító
 gurítódomb
 gurítókerék
-gurka
 gurtni
 guru
 gurul
-gurula
 gurulás
 guruló
 gurulópálya
@@ -50498,14 +50421,11 @@ gutaütés
 gutaütéses
 gutaütött
 guttapercha
-guttapercsa
-guttapercsatej
 gutturális
 guvad
 guvadt
 guvat
 guvríroz
-guvrirozás
 guvrírozás
 guvrírozott
 guzlica
@@ -50522,7 +50442,6 @@ gülbaba
 gümő
 gümőkór
 gümőkóros
-gümölcsszedés
 gümős
 gürcöl
 gürcölés
