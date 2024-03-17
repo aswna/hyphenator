@@ -50558,7 +50558,6 @@ gyalogtúrázik
 gyalogút
 gyalom
 gyalomháló
-gyalomhálózsák
 gyalu
 gyaluforgács
 gyalugép
@@ -50591,7 +50590,6 @@ gyámkodó
 gyámkő
 gyámkődísz
 gyámleány
-gyámolás
 gyámolatlan
 gyámolít
 gyámolítatlan
@@ -50649,12 +50647,9 @@ gyanútlan
 gyanútlanul
 gyapál
 gyapjas
-gyapjasítás
 gyapjaslepke
 gyapjasodik
 gyapjasság
-gyapjasszőr
-gyapjatlanítás
 gyapjú
 gyapjúanyag
 gyapjúáru
@@ -50708,7 +50703,6 @@ gyapjútisztító
 gyapjútőzsde
 gyapjúujjas
 gyapjúválogató
-gyapjúvelurszövet
 gyapjúvelúrszövet
 gyapjúzubbony
 gyapjúzsák
@@ -50888,14 +50882,12 @@ gyémánttartalmú
 gyémánttermő
 gyémánttű
 gyenge
-gyengeanyagúság
 gyengeáram
 gyengeáramú
 gyengécske
 gyengéd
 gyengéden
 gyengédség
-gyengédszívű
 gyengédtelen
 gyengeelméjű
 gyengeelméjűség
@@ -50914,7 +50906,6 @@ gyengus
 gyengül
 gyengülés
 gyengülő
-gyénileg
 gyep
 gyepágy
 gyepes
@@ -50958,7 +50949,6 @@ gyerekbolond
 gyerekcsináló
 gyerekcsoport
 gyerekdal
-gyerekded
 gyereké
 gyerekek
 gyerekeké
@@ -50998,7 +50988,6 @@ gyerekvers
 gyéren
 gyérít
 gyerkőc
-gyerm
 gyermek
 gyermekágy
 gyermekágyacska
@@ -51152,7 +51141,6 @@ gyertyavivő
 gyertyáz
 gyérül
 gyerünk
-gyes
 gyí
 gyík
 gyíkféle
@@ -51165,13 +51153,10 @@ gyíktojás
 gyilkol
 gyilkolás
 gyilkos
-gyilkosnő
 gyilkosság
 gyilkossági
 gyilok
 gyilokjáró
-gymnasium
-gymnastics
 gyógyáru
 gyógyász
 gyógyászat
@@ -51284,8 +51269,6 @@ gyomai
 gyomhal
 gyomirtás
 gyomirtó
-gyomírtó
-gyomirtószer
 gyomlál
 gyomlálás
 gyomlálatlan
@@ -51325,7 +51308,6 @@ gyomorrák
 gyomorrontás
 gyomorsav
 gyomorsavhiány
-gyomorsavtúltengé
 gyomorsavtúltengés
 gyomorsipoly
 gyomorsüllyedés
@@ -51339,14 +51321,12 @@ gyomortükrözés
 gyomorvérzés
 gyomos
 gyomosodik
-gyomrocs
 gyomros
 gyomroz
 gyomtalanít
 gyomtalanított
 gyón
 gyónás
-gyónató
 gyónik
 gyónó
 gyóntat
@@ -51359,7 +51339,6 @@ gyopár
 gyors
 gyorsabb
 gyorsacél
-gyorsállítású
 gyorsan
 gyorsáru
 gyorsáruk
@@ -51368,7 +51347,7 @@ gyorsáruszállítás
 gyorsaság
 gyorsaságmérő
 gyorsbüfé
-gyorsételek
+gyorsétel
 gyorsétkezés
 gyorsétkező
 gyorsfagyasztás
@@ -51384,7 +51363,6 @@ gyorsgőzös
 gyorshajtás
 gyorshajtó
 gyorshír
-gyorshűt
 gyorshűtés
 gyorsír
 gyorsírás
@@ -51413,7 +51391,6 @@ gyorskópia
 gyorskorcsolyázás
 gyorskorcsolyázó
 gyorsküldemény
-gyorsküldönc
 gyorslábú
 gyorslépés
 gyorslépésben
@@ -51435,8 +51412,6 @@ gyorsteherkocsi
 gyorstehervonat
 gyorstisztító
 gyorstöltő
-gyorstűz
-gyorstüzelés
 gyorstüzelő
 gyorsul
 gyorsulás
@@ -51453,7 +51428,6 @@ gyökér
 gyökércsap
 gyökérdaganat
 gyökérdugvány
-gyökérdús
 gyökeredzik
 gyökerek
 gyökeres
@@ -51500,13 +51474,11 @@ gyömbérbor
 gyömbérgyökér
 gyömbérkenyér
 gyömbérsör
-gyömölcscukor
 gyömöszöl
 gyömöszölés
 gyönge
 gyöngéd
 gyöngéden
-gyöngédetlen
 gyöngédtelen
 gyöngédtelenség
 gyöngélkedik
@@ -51716,7 +51688,6 @@ gyúrás
 gyúrat
 gyurgyalag
 gyurma
-gyúrma
 gyúró
 gyúródeszka
 gyúródik
@@ -51748,7 +51719,6 @@ gyűjtőlencse
 gyűjtőmedence
 gyűjtőnév
 gyűjtőpersely
-gyűjtőpostahivatal
 gyűjtősín
 gyűjtőszenvedély
 gyűjtőtábor
@@ -51762,7 +51732,6 @@ gyülekezik
 gyülekező
 gyülekezőhely
 gyülekeztet
-gyülekszik
 gyülemlik
 gyűlés
 gyűlésezik
@@ -51778,7 +51747,6 @@ gyűlölködés
 gyűlölködik
 gyűlölködő
 gyűlölség
-gyümöcskosár
 gyümölcs
 gyümölcsállvány
 gyümölcsárus
@@ -51839,7 +51807,6 @@ gyümölcspép
 gyümölcspiac
 gyümölcsprés
 gyümölcspuding
-gyümölcspulp
 gyümölcsrizs
 gyümölcssajt
 gyümölcssaláta
@@ -51852,7 +51819,6 @@ gyümölcstál
 gyümölcstermelés
 gyümölcstermelő
 gyümölcstermés
-gyümölcstermeszté
 gyümölcstermesztés
 gyümölcstermő
 gyümölcstest
@@ -51877,7 +51843,6 @@ gyűröget
 gyűrött
 gyűröttség
 gyűrt
-gyűrtelenítés
 gyűrtelenített
 gyűrű
 gyűrűcske
