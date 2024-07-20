@@ -79914,7 +79914,6 @@ labdarúgósport
 labdarúgótorna
 labdaszedő
 labdatartás
-labdatoppolás
 labdatövis
 labdaütés
 labdaütő
@@ -79929,7 +79928,6 @@ lábfájás
 lábfájós
 lábfej
 lábfejek
-lábfejfogyasztás
 lábfejtartó
 lábfejvért
 lábfék
@@ -79942,16 +79940,13 @@ lábgyűrűzés
 lábhajtás
 lábhegy
 lábhiba
-lábhíjas
 labiális
 lábikó
 lábikra
 labilis
 labilisan
-lábinkó
-labiodentális
-labirintszerű
 labirintus
+labirintusszerű
 lábító
 lábizom
 lábizzadás
@@ -80042,8 +80037,6 @@ lábvíz
 lábzsák
 lábzsámoly
 lacafacázik
-lacapacázik
-laci
 lacikonyha
 lacikonyhás
 lacipecsenye
@@ -80062,7 +80055,6 @@ ládika
 ladikázik
 ládikó
 ladikos
-ladys
 laffog
 láger
 lágerlakó
@@ -80083,7 +80075,6 @@ lágyéktáji
 lágyfekély
 lágyforrasz
 lágyhéjú
-lágyhús
 lágyít
 lágyítás
 lágyító
@@ -80091,8 +80082,6 @@ lágyítójel
 lágyítószer
 lágyított
 lágyítottság
-lágykén
-lágykőzet
 lágymányosi
 lagymatag
 lagymatagon
@@ -80228,7 +80217,6 @@ lakkozott
 lakkréteg
 lakktopános
 lakli
-lakmároz
 lakmározás
 lakmározik
 lakmározó
@@ -80319,7 +80307,6 @@ lámpaállvány
 lámpabél
 lámpabélcső
 lámpabélolló
-lámpabura
 lámpabúra
 lámpabúratartó
 lámpácska
@@ -80347,7 +80334,6 @@ lampasz
 lámpatartály
 lámpatartó
 lámpatest
-lámpatisztítító
 lámpatisztító
 lámpátlan
 lámpaüveg
@@ -80407,7 +80393,6 @@ láncolt
 láncos
 láncöltés
 láncpecek
-láncraverés
 láncreakció
 láncrés
 láncrostély
@@ -80426,7 +80411,6 @@ láncszabály
 láncszekrény
 láncszem
 láncszivattyú
-landmadár
 landol
 landolás
 lándzsa
@@ -80440,12 +80424,12 @@ lándzsanyél
 lándzsás
 lándzsatartó
 lándzsavetés
+lándzsazászló
 lándzsazászlócska
 láng
 langaléta
-lángalló
+langalló
 lángálló
-lángallókezelő
 lángbagoly
 lángban
 lángbetű
@@ -80548,8 +80532,6 @@ lányos
 lánypajtás
 lánytestvér
 lányunoka
-laokoón
-laosz
 laoszi
 lap
 láp
@@ -80583,7 +80565,6 @@ láperdő
 lápföld
 lapi
 lápi
-lapicka
 lapidáris
 lapilli
 lápisz
@@ -80615,22 +80596,19 @@ lapológyalu
 lapos
 lápos
 laposan
-laposcsákány
 laposék
 laposféreg
 laposfogó
 laposforma
-laposhímzés
 laposít
 laposodik
 laposreszelő
 laposság
 lapostányér
-lapostetejű
+lapostető
 lapostetű
 laposüveg
 laposvas
-laposvéső
 laposszög
 lapoz
 lapozás
@@ -80679,6 +80657,7 @@ lápvidék
 lápvirág
 lapzárta
 lárifári
+laringoszkóp
 laringoszkópia
 lárma
 lármafa
@@ -80701,7 +80680,6 @@ lassabbodik
 lassacskán
 lassan
 lassanként
-lassankint
 lassít
 lassítás
 lassító
@@ -80715,15 +80693,10 @@ lassul
 lassulás
 lassúság
 lassúzik
-lastex
-laszkár
-lászló
-lászó
 lasszó
 lasszóz
 lasszózás
 lasszózik
-laszt
 lasztex
 lasztexnadrág
 laszti
@@ -80746,8 +80719,8 @@ látatlanul
 látcső
 látcsővel
 látcsövez
-late
 lateiner
+latencia
 látencia
 latens
 látens
@@ -80776,8 +80749,6 @@ latinosság
 latinság
 latintanár
 latintanítás
-latitude
-látjelző
 látkép
 látkör
 látlelet
@@ -80786,7 +80757,6 @@ látnivaló
 látnivalók
 látnok
 látnoki
-látnokság
 látó
 látóasszony
 látófa
@@ -80818,7 +80788,6 @@ latorság
 látósugár
 látószerv
 látószög
-látótávolban
 látótávolság
 látótengely
 látótér
@@ -80859,7 +80828,6 @@ látványosságok
 latyak
 latyakos
 laureátus
-lautverschiebung
 láva
 lávafolyam
 lávafolyás
@@ -80892,7 +80860,6 @@ lázadozás
 lázadozik
 lázadozó
 lázadozva
-lazaerkölcsű
 lázállapoti
 lázálom
 lazán
@@ -80903,7 +80870,6 @@ lázasan
 lázasodik
 lázasság
 lázbeteg
-lázcsillapitó
 lázcsillapító
 lázgörbe
 lazít
@@ -80931,10 +80897,8 @@ lázterápia
 lazul
 lazulás
 lazúr
-lazurfesték
 lazurit
 lazúrkék
-lazurkő
 lazúrkő
 lazúroz
 lazúrozás
@@ -80947,7 +80911,6 @@ lázsömör
 lazsukál
 le
 lé
-leaányság
 leabál
 leábrázol
 lead
@@ -81039,6 +81002,7 @@ leányág
 leányalak
 leányálom
 leányanya
+leányanyaság
 leányarc
 leányasszony
 leányavatás
@@ -81157,6 +81121,7 @@ lebegve
 lebékít
 lebéklyóz
 lebélyegez
+lebélyegezetlen
 lebélyegezett
 lebélyegzés
 lebélyegzetlen
@@ -81435,7 +81400,6 @@ lecsiszolgat
 lecsiszolódik
 lecsitít
 lecsitul
-lécskáló
 lecsó
 lecsobog
 lecsokizik
@@ -81722,7 +81686,6 @@ lefed
 lefedett
 lefedez
 lefedő
-lefegőszerű
 lefegyelmez
 lefegyverez
 lefegyverezés
@@ -81856,9 +81819,6 @@ lefolyik
 lefolyó
 lefolyócsatorna
 lefolyócső
-lefolyóka
-lefolyóluk
-lefolyólyuk
 lefolyósít
 lefolyószűrő
 lefolyóvíz
@@ -81909,7 +81869,6 @@ lefrissít
 lefröccsent
 lefröcsköl
 lefrusztrál
-left
 lefú
 lefúj
 lefújás
@@ -81979,9 +81938,8 @@ légáramlás
 légáramlásmérő
 légáramlat
 légáramlatok
-légáthatlan
+légáteresztő
 légáthidalás
-légátnemeresztő
 legátol
 legátus
 legátusi
@@ -82170,13 +82128,9 @@ léghűtő
 légi
 légiakna
 légibázis
-légibemutató
-légibeteg
-légibetegség
 légibomba
 légibombasorozat
 légibombázás
-légibusz
 légicsapás
 légideszant
 legidősebb
@@ -82199,7 +82153,6 @@ légikisasszony
 leginkább
 légió
 legionárius
-légionárius
 legionista
 légionista
 légiós
@@ -82210,7 +82163,6 @@ légipostai
 légipostával
 legipszel
 légiriadó
-légise
 légiszemélyzet
 légiszony
 légitámadás
@@ -82374,7 +82326,6 @@ légörvénylés
 légösszekötő
 légpangás
 légpárna
-légpárnaa
 légpárnás
 légpórus
 legpuhább
@@ -82412,8 +82363,6 @@ legszelídebb
 legszélső
 légszennyezés
 légszeparátor
-légszér
-légszérelés
 légszesz
 légszeszgyár
 légszigetelés
@@ -82607,8 +82556,6 @@ legyőzik
 legyőző
 legyőződik
 legyőzött
-legyőztetés
-légypapir
 légypapír
 légypenész
 légypete
@@ -82750,7 +82697,6 @@ leheletszerű
 leheletszerűen
 leheletű
 leheletvékony
-lehellet
 lehelyez
 lehelyezkedik
 lehelyeződik
@@ -82810,6 +82756,7 @@ lehomályosul
 lehord
 lehordás
 lehordat
+lehordja
 lehordják
 lehordott
 lehorgad
@@ -82819,7 +82766,6 @@ lehorgonyoz
 lehorgonyzás
 lehorgonyzócsavar
 lehorgonyzólap
-lehorja
 lehorzsol
 lehorzsolódás
 lehorzsolódik
@@ -82832,7 +82778,6 @@ lehörög
 lehörpint
 lehőzöng
 lehúgyoz
-lehugyoz
 lehuhog
 lehull
 lehullajt
@@ -83008,13 +82953,11 @@ lejtakna
 lejtés
 lejtésfok
 lejtésszög
-lejtet
 lejtmenet
 lejtmérés
 lejtő
 lejtőirány
 lejtős
-lejtősakna
 lejtősen
 lejtősít
 lejtősödik
@@ -83143,7 +83086,6 @@ lekési
 lekésik
 lekeskenyedik
 lekeskenyít
-lekész
 lekészít
 lekészül
 lekettőz
@@ -83171,7 +83113,6 @@ lekicsinylés
 lekicsinylő
 lekicsinylően
 lekígyózik
-lekiismeretfurdalás
 lekínlódik
 lekísér
 lekísért
@@ -83196,7 +83137,6 @@ lekondenzál
 lekonferál
 lekonfirmál
 lekonkretizál
-lekonkurrál
 lekontráz
 lekontrollál
 lekontyol
@@ -83340,7 +83280,6 @@ leküzdött
 lekvár
 lekvárkészítő
 lekváros
-lekvárostekercs
 lekvárosüveg
 lekvittel
 lel
@@ -83406,7 +83345,6 @@ lélegzetelállító
 lélegzetű
 lélegzetvétel
 lélegzetvételnyi
-lélegzetvisszafojtva
 lélegzik
 lélegző
 lélegzőcső
@@ -83523,23 +83461,18 @@ lelki
 lelkialkat
 lelkiállapot
 lelkiatya
-lelkibeteg
 lelkierő
 lelkifröccs
 lelkifurdalás
-lelkigondozás
 lelkigyakorlat
 lelkiismeret
 lelkiismeretes
 lelkiismeretesen
 lelkiismeretesség
-lelkiismeretfurda
-lelkiismeretfurdalás
 lelkiismeretfurdalásos
 lelkiismereti
 lelkiismeretlen
 lelkiismeretlenség
-lelkiismeretvizsgálat
 lelkileg
 lelkipásztor
 lelkipásztori
@@ -83551,8 +83484,6 @@ lelkivilág
 lelkizik
 lelkű
 lelkület
-lelleg
-lelmond
 leloccsan
 leloccsant
 lelocsol
@@ -83905,13 +83836,10 @@ lengőtengely
 lengőtrapéz
 lengőülés
 lengővilla
-length
 lengubó
 lengyel
 lengyeles
-lengyelfürt
 lengyelke
-lengyelország
 lenhaj
 lénia
 léniás
@@ -83922,7 +83850,6 @@ leninizmus
 lenipar
 lenkék
 lenkóc
-lenkupacoló
 lenmag
 lenmagborogatás
 lenmagliszt
@@ -84235,7 +84162,6 @@ lepedővászon
 lépeget
 lepel
 lepellevél
-lependék
 lependeredik
 lependerít
 lependerül
@@ -84511,7 +84437,6 @@ lerétegez
 lereteszel
 leretusál
 lerezeg
-lerézsel
 lerí
 leriaszt
 lerikácsol
@@ -84569,7 +84494,6 @@ lerovás
 lerozsdállik
 leröffen
 leröfög
-lerögzit
 lerögzít
 lerögzítés
 lerögzített
@@ -84714,7 +84638,6 @@ lespriccel
 lesprintel
 lespurizik
 lesrófol
-lessimít
 lestaktika
 lestempliz
 lesteppel
@@ -84731,7 +84654,6 @@ lesuhint
 lesújt
 lesújtó
 lesújtóan
-lesújtólag
 lesújtott
 lesújtottság
 lesújtva
@@ -84791,7 +84713,6 @@ leszállás
 leszállásjelző
 leszállásol
 leszállingózik
-leszállípálya
 leszállít
 leszállítás
 leszállított
@@ -85161,7 +85082,6 @@ letesztel
 letét
 letétbank
 letétben
-letétbetesz
 letétel
 letételez
 letétemény
@@ -85309,10 +85229,10 @@ letromfolás
 létszám
 létszámcsökkenés
 létszámcsökkentés
-létszámegyzék
 létszámemelés
 létszámfeletti
 létszámfölötti
+létszámjegyzék
 létszámjelentés
 létszámleépítés
 létszámstop
@@ -85321,7 +85241,6 @@ létszemlélet
 létszükséglet
 lett
 léttelen
-lettország
 lettországi
 letud
 letúloz
@@ -85348,8 +85267,6 @@ letüsszent
 letűz
 letűzdel
 letűzköd
-leucanialepke
-leucita
 leugat
 leugrál
 leugraszt
@@ -85360,7 +85277,7 @@ leújít
 leújságol
 leukémia
 leukocitózis
-leukoma
+leukóma
 leukoplaszt
 leukotómia
 leukozafir
@@ -85481,7 +85398,6 @@ levegőkúra
 levegőmozgás
 levegőnyelés
 levegőnyomás
-levegőnyomásmérő
 levegőréteg
 levegős
 levegősebb
@@ -85635,7 +85551,6 @@ levesbetét
 levescsont
 levesedik
 leveses
-levesesfazék
 leveseskanál
 leveseskanálnyi
 levesesség
@@ -85853,7 +85768,6 @@ libalegelő
 libamáj
 libamájpástétom
 libamell
-libanon
 libanoni
 libanyáj
 libanyak
@@ -85880,13 +85794,13 @@ libegés
 libegő
 libegős
 libella
-liber
 liberális
 liberalizáció
 liberalizál
 liberalizmus
 libéria
 libériás
+libertariánus
 libertinus
 libidó
 libikóka
