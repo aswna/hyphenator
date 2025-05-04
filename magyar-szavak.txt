@@ -86795,7 +86795,6 @@ macskáz
 macskazene
 macsó
 mácsonya
-madagaszkár
 madagaszkári
 madám
 madame
@@ -86874,16 +86873,13 @@ madártest
 madártetem
 madártojás
 madártoll
+madártollon
 madártrágya
 madártudós
 madárvárta
 madárvédelem
 madárvilág
 madárvonulás
-madátollon
-madeira
-madonna
-madrasz
 madrepora
 madreporalemez
 madridi
@@ -86906,8 +86902,6 @@ mafláz
 mag
 maga
 magában
-magábaszállás
-magábazárkózás
 magabízás
 magabízó
 magabiztos
@@ -86919,7 +86913,6 @@ magafajta
 magaféle
 magaforma
 magágy
-magáhoztérés
 magajáró
 magakelletés
 magakészítette
@@ -86929,7 +86922,6 @@ magamutogató
 magán
 magának
 magánakció
-magánakvaló
 magánalkalmazott
 magánautó
 magánautós
@@ -87082,8 +87074,6 @@ magaslik
 magasnyomás
 magasnyomó
 magasodik
-magasrangú
-magasrendű
 magasröptű
 magasröptűség
 magasság
@@ -87105,8 +87095,6 @@ magasugrás
 magasugró
 magasul
 magasvasút
-magasvérnyomás
-magaszerezte
 magaszőrű
 magasztal
 magasztalás
@@ -87120,7 +87108,6 @@ magát
 magatartás
 magatartású
 magatehetetlen
-magateremtette
 magatok
 magától
 magaunt
@@ -87130,8 +87117,6 @@ magáz
 magázás
 magazin
 magázódik
-magbamegy
-magbaszökött
 magbuga
 magburok
 magcsemete
@@ -87172,7 +87157,6 @@ máglyahalál
 máglyarakás
 máglyaszerű
 máglyázó
-maglyukdörzsár
 magma
 magmás
 mágnás
@@ -87218,7 +87202,6 @@ magnéziumos
 magnéziumoxid
 magnéziumtimsó
 magnó
-magnódeck
 magnófelvétel
 magnólia
 magnóliafa
@@ -87309,14 +87292,12 @@ magyardolgozat
 magyarellenes
 magyarfajta
 magyarfaló
-magyari
 magyarít
 magyarítás
 magyarító
 magyarkodás
 magyarlakta
 magyaróra
-magyarország
 magyaros
 magyarosít
 magyarosított
@@ -87328,7 +87309,6 @@ magyartalan
 magyartalanság
 magyartanár
 magyartanítás
-magymértékben
 mahagóni
 mahagónifa
 maharadzsa
@@ -87341,7 +87321,6 @@ maja
 majális
 majálisozik
 májas
-májashurka
 májbab
 májbaj
 májbajos
@@ -87366,7 +87345,6 @@ májkapu
 májkapuér
 májkivonat
 májkökörcsin
-májkökörcsín
 májkrém
 májmétely
 májmételykór
@@ -87375,7 +87353,6 @@ majmol
 majmolás
 majmoló
 májműtét
-majna
 majolika
 majom
 majomember
@@ -87397,7 +87374,6 @@ majonéz
 majonézmártás
 major
 majorál
-majoranna
 majoránna
 majori
 majoritás
@@ -87431,7 +87407,7 @@ makacsul
 makadám
 makadámoz
 makadámút
-makákus
+makákó
 makaó
 makaróni
 makarónifajta
@@ -87458,10 +87434,8 @@ makói
 mákony
 mákonyos
 mákos
-mákoskalács
 mákoz
 makrahal
-makráma
 makramé
 makranc
 makrancos
@@ -87520,14 +87494,12 @@ malacsült
 malacszerű
 malagabor
 maláj
-malaja
 malájföld
 malária
 maláriás
 maláriazónák
 malaszt
 malaszté
-malát
 maláta
 malátaaszaló
 malátacukor
@@ -87543,9 +87515,6 @@ malátáz
 malátázás
 malátázatlan
 malawi
-malaysia
-malaysiai
-male
 málé
 maleát
 maleinsav
@@ -87572,8 +87541,6 @@ mállás
 mállaszt
 mállékony
 mállik
-malljáték
-malljátszótér
 mállott
 malmos
 malmozás
@@ -87622,7 +87589,6 @@ malteroz
 malterréteg
 malterszerű
 malterteknő
-maltiz
 maltóz
 mályva
 mályvacukor
@@ -87639,12 +87605,6 @@ mami
 mámi
 mamlasz
 mammon
-mammut
-mammutegyetem
-mammutfenyő
-mammutfenyők
-mammutvállalat
-mammutváros
 mámor
 mámorít
 mámorító
@@ -87656,9 +87616,12 @@ mámorosodik
 mamuska
 mamusz
 mamut
-manakin
+mamutegyetem
+mamutfenyő
+mamutfenyők
+mamutvállalat
+mamutváros
 manapság
-mancoenkéreg
 mancs
 mancsú
 mandarin
@@ -87673,7 +87636,6 @@ mandinerről
 mandolin
 mandolinos
 mandolinoz
-mandragora
 mandragóra
 mandragóragyanta
 mandragóragyökér
@@ -87698,7 +87660,6 @@ mandzsettagomb
 mandzsettagombok
 mandzsu
 mandzsúriai
-maneken
 manézs
 mangalica
 mangán
@@ -87719,9 +87680,7 @@ mángorlógép
 mángorlóhenger
 mángorol
 mángorolt
-mangosztán
 mangrove
-mangróve
 mangrovefa
 manguszta
 mánia
@@ -87738,20 +87697,18 @@ manikűrolló
 manikűrös
 manikűröz
 manikűrözés
-manila
 manilai
 manillaszivar
 manióka
 maniókalepény
 maniókaliszt
-manipula
 manipuláció
 manipulációs
 manipulál
 manipulálás
 manipulált
 manipuláns
-manipulative
+manipulatív
 manipulátor
 manír
 maníros
@@ -87773,18 +87730,11 @@ manöken
 manőver
 manőverez
 manőverezési
-manövríroz
-mans
-manserő
 mantissza
 manuál
 manuális
-manufactured
-manufacturing
 manufaktúra
 manus
-manuscript
-manuscripts
 manusz
 manzárd
 manzárdablak
@@ -87829,7 +87779,6 @@ marakodás
 marakodik
 marakszik
 marás
-maraszkinólikőr
 maraszt
 marasztal
 marasztalás
@@ -87842,8 +87791,7 @@ maraton
 maratoni
 maratószer
 maratott
-maravédi
-márc
+maravedí
 marcangol
 marci
 marcipán
@@ -87925,7 +87873,6 @@ máriás
 máriatövis
 máriaüveg
 marihuána
-marijuana
 marimba
 mariníroz
 marinírozott
@@ -87942,7 +87889,6 @@ márkás
 márkáz
 markazit
 markecol
-market
 marketing
 márki
 márkiné
@@ -87964,7 +87910,6 @@ markolóveder
 markos
 markotányos
 markőr
-marks
 marmelád
 mármint
 marmonkanna
@@ -87983,7 +87928,6 @@ marókáli
 maroken
 marokenbőr
 marókészülék
-marokkó
 marokkói
 marokkörző
 maroknyi
@@ -88007,13 +87951,12 @@ marsallbot
 marsbeli
 marsi
 marslakó
-marsoin
+marsupializáció
 márt
 martalék
 martalóc
 martalóckodik
 mártás
-mártásoscsésze
 mártat
 martilapu
 martin
@@ -88061,7 +88004,6 @@ márványutánzat
 marxi
 marxista
 marxizmus
-marzupializáció
 más
 mása
 másállapot
@@ -88169,7 +88111,6 @@ másodtermény
 másodtermésű
 másodtiszt
 másodtitkár
-másodunokatestvér
 másodváltó
 másodvetés
 másodvirágzás
@@ -88201,7 +88142,6 @@ mássalhangzósít
 mássalhangzósodik
 mássalhangzót
 mást
-mastectomia
 másul
 másutt
 másvalaki
@@ -88276,7 +88216,6 @@ materialista
 materializál
 materializálódik
 materializmus
-mathematics
 matiné
 mátka
 mátkapár
@@ -88318,6 +88257,7 @@ matrózsapka
 matrózzsák
 matt
 mattíroz
+mattírozás
 mattol
 mattosít
 matúra
@@ -88327,7 +88267,6 @@ matuzsálem
 matuzsálemi
 mátyásmadár
 matyó
-mauritánia
 mauritániai
 mauser
 mauzóleum
@@ -88353,7 +88292,6 @@ mázlisan
 mázlista
 mazochista
 mazochizmus
-mazohizmus
 mázol
 mázolás
 mázolmány
@@ -88364,7 +88302,6 @@ máztalan
 máztalanít
 máztalanítás
 mazurka
-mazut
 mázsa
 mázsaház
 mázsakönyv
@@ -88381,11 +88318,8 @@ mazsolás
 mazsolaszőlő
 mazsoláz
 mazsorett
-mé
 meakulpázik
 meander
-measure
-mebízható
 mecénás
 mecénáskodik
 mechanika
@@ -88404,7 +88338,6 @@ mécses
 mecset
 mécsvilág
 mécsvirág
-medaillon
 medál
 medália
 medalion
