@@ -87,7 +87,7 @@ def parse_args():
     parser.add_argument('--level',
                         type=int,
                         default=0,
-                        help='level')
+                        help='difficulty level according to the Meixner-method')
     parser.add_argument('--dictionary',
                         default='magyar-szavak.txt',
                         help='dictionary to use')
@@ -138,8 +138,11 @@ def get_allowed_words(lines, consonants_pool, vowels_pool):
             if letter not in consonants_pool and letter not in vowels_pool:
                 break
         else:
-            if is_graph_allowed(word, consonants_pool):
-                allowed_words.append(word)
+            if not is_graph_allowed(word, consonants_pool):
+                continue
+            if not word_has_enough_syllables(word):
+                continue
+            allowed_words.append(word)
 
     random.shuffle(allowed_words)
 
@@ -152,6 +155,14 @@ def is_graph_allowed(word, consonants_pool):
         if graph in word and graph not in consonants_pool:
             return False
     return True
+
+
+def word_has_enough_syllables(word):
+    count = 0
+    for letter in word:
+        if letter in VOWELS:
+            count += 1
+    return count >= 2
 
 
 if __name__ == '__main__':
