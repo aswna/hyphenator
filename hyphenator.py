@@ -158,6 +158,7 @@ def is_graph_allowed(word, consonants_pool):
 
 
 def word_has_enough_syllables(word):
+    """Check whether the word contains enough syllables."""
     count = 0
     for letter in word:
         if letter in VOWELS:
